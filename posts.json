@@ -1,22 +1,104 @@
-[
-  {
-    "topic": "Monday Motivation",
-    "caption": "Start the week with a positive mindset. Every small effort contributes to bigger achievements. Have a productive Monday!"
-  },
-  {
-    "topic": "Attendance Awareness",
-    "caption": "Good attendance helps the whole team stay organized and productive. Please complete your attendance records accurately and on time."
-  },
-  {
-    "topic": "HR Reminder",
-    "caption": "Friendly reminder: Please submit HR-related requests and required documents within the prescribed timeline to avoid processing delays."
-  },
-  {
-    "topic": "Teamwork",
-    "caption": "Great results come from working together. Support your teammates, communicate respectfully, and celebrate shared accomplishments."
-  },
-  {
-    "topic": "Workplace Safety",
-    "caption": "A safe workplace is everyone's responsibility. Stay alert, follow workplace procedures, and report potential hazards promptly."
-  }
-]
+captionText.setText(
+        "Please check your internet connection " +
+        "and tap Refresh Online Content."
+);
+
+Toast.makeText(
+        MainActivity.this,
+        "Unable to download posts.",
+        Toast.LENGTH_SHORT
+).show();
+
+});
+
+} finally {
+
+    if (connection != null) {
+        connection.disconnect();
+    }
+}
+
+}).start();
+}
+
+private void generatePost() {
+
+    if (onlinePosts.isEmpty()) {
+
+        Toast.makeText(
+                this,
+                "Online posts are still loading.",
+                Toast.LENGTH_SHORT
+        ).show();
+
+        return;
+    }
+
+    int index = random.nextInt(onlinePosts.size());
+
+    String[] post = onlinePosts.get(index);
+
+    topicText.setText(post[0]);
+    captionText.setText(post[1]);
+}
+
+private void copyCaption() {
+
+    String caption = captionText.getText().toString();
+
+    ClipboardManager clipboard =
+            (ClipboardManager)
+                    getSystemService(
+                            Context.CLIPBOARD_SERVICE
+                    );
+
+    ClipData clip =
+            ClipData.newPlainText(
+                    "HR Daily Post",
+                    caption
+            );
+
+    clipboard.setPrimaryClip(clip);
+
+    Toast.makeText(
+            this,
+            "Caption copied!",
+            Toast.LENGTH_SHORT
+    ).show();
+}
+
+private void openFacebook() {
+
+    try {
+
+        Intent intent =
+                new Intent(
+                        Intent.ACTION_VIEW,
+                        Uri.parse("fb://")
+                );
+
+        startActivity(intent);
+
+    } catch (Exception e) {
+
+        Intent browser =
+                new Intent(
+                        Intent.ACTION_VIEW,
+                        Uri.parse("https://www.facebook.com/")
+                );
+
+        startActivity(browser);
+    }
+}
+
+private int dp(int value) {
+
+    float density =
+            getResources()
+                    .getDisplayMetrics()
+                    .density;
+
+    return (int) (value * density + 0.5f);
+}
+
+}
