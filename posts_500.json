@@ -1,0 +1,3002 @@
+[
+  {
+    "category": "Attendance & Punctuality",
+    "topic": "Start the Day on Time",
+    "caption": "Being on time helps everyone begin the day organized and prepared. Consistent punctuality is a simple habit that supports teamwork, productivity, and respect for one another.",
+    "active": true
+  },
+  {
+    "category": "Attendance & Punctuality",
+    "topic": "Every Minute Matters",
+    "caption": "A few minutes may seem small, but consistent punctuality keeps schedules moving and helps the whole team work smoothly.",
+    "active": true
+  },
+  {
+    "category": "Attendance & Punctuality",
+    "topic": "Ready Before the Rush",
+    "caption": "Arriving prepared gives you time to settle in, organize priorities, and start the workday with focus.",
+    "active": true
+  },
+  {
+    "category": "Attendance & Punctuality",
+    "topic": "Attendance Builds Reliability",
+    "caption": "Regular attendance shows dependability. When people can count on one another, the whole workplace becomes stronger.",
+    "active": true
+  },
+  {
+    "category": "Attendance & Punctuality",
+    "topic": "Plan Ahead, Arrive Ready",
+    "caption": "Traffic and unexpected delays happen. A little extra travel time can make the difference between rushing and starting the day calmly.",
+    "active": true
+  },
+  {
+    "category": "Attendance & Punctuality",
+    "topic": "Consistency Counts",
+    "caption": "Great attendance is built one workday at a time. Show up, stay engaged, and keep the momentum going.",
+    "active": true
+  },
+  {
+    "category": "Attendance & Punctuality",
+    "topic": "Be Present, Make an Impact",
+    "caption": "Your presence matters. Every role contributes to the team's daily progress and shared goals.",
+    "active": true
+  },
+  {
+    "category": "Attendance & Punctuality",
+    "topic": "Punctuality Is Professional",
+    "caption": "Being on time is a simple way to show respect for your work, your colleagues, and the people who depend on you.",
+    "active": true
+  },
+  {
+    "category": "Attendance & Punctuality",
+    "topic": "Start Strong",
+    "caption": "A strong workday often begins with a simple habit: arriving on time and ready to contribute.",
+    "active": true
+  },
+  {
+    "category": "Attendance & Punctuality",
+    "topic": "Attendance Check",
+    "caption": "Before the day gets busy, make sure your attendance record is complete and accurate. Good records help everyone.",
+    "active": true
+  },
+  {
+    "category": "Attendance & Punctuality",
+    "topic": "Time In, Focus On",
+    "caption": "Clock in, get organized, and bring your attention to the priorities that matter most today.",
+    "active": true
+  },
+  {
+    "category": "Attendance & Punctuality",
+    "topic": "Respect the Schedule",
+    "caption": "Schedules help teams coordinate. Following them consistently makes handoffs, meetings, and daily operations easier.",
+    "active": true
+  },
+  {
+    "category": "Attendance & Punctuality",
+    "topic": "Reliable Every Day",
+    "caption": "Reliability is not about one perfect day. It is the habit of showing up and doing your part consistently.",
+    "active": true
+  },
+  {
+    "category": "Attendance & Punctuality",
+    "topic": "Good Habits, Smooth Days",
+    "caption": "Punctuality and complete attendance records may be small habits, but they prevent bigger problems later.",
+    "active": true
+  },
+  {
+    "category": "Motivation",
+    "topic": "Small Steps, Big Progress",
+    "caption": "You do not need to finish everything at once. Focus on the next useful step and keep moving forward.",
+    "active": true
+  },
+  {
+    "category": "Motivation",
+    "topic": "Progress Over Perfection",
+    "caption": "Aim to improve, not to be flawless. Consistent progress creates results that perfectionism often delays.",
+    "active": true
+  },
+  {
+    "category": "Motivation",
+    "topic": "Bring Your Best Today",
+    "caption": "Yesterday is finished and tomorrow can wait. Give today's work your best attention and energy.",
+    "active": true
+  },
+  {
+    "category": "Motivation",
+    "topic": "Make Today Count",
+    "caption": "Every workday is another chance to learn, contribute, and move a goal closer to completion.",
+    "active": true
+  },
+  {
+    "category": "Motivation",
+    "topic": "Keep the Momentum",
+    "caption": "When motivation feels low, rely on good habits. Starting is often enough to get momentum back.",
+    "active": true
+  },
+  {
+    "category": "Motivation",
+    "topic": "One Task at a Time",
+    "caption": "A long list becomes manageable when you focus on one priority, finish it well, and move to the next.",
+    "active": true
+  },
+  {
+    "category": "Motivation",
+    "topic": "Choose a Positive Start",
+    "caption": "A positive attitude does not remove challenges, but it can help you approach them with clearer thinking and better energy.",
+    "active": true
+  },
+  {
+    "category": "Motivation",
+    "topic": "You Are Building Something",
+    "caption": "Routine work still matters. Every accurate report, helpful reply, and completed task contributes to a bigger result.",
+    "active": true
+  },
+  {
+    "category": "Motivation",
+    "topic": "Keep Showing Up",
+    "caption": "Success at work is often less dramatic than it looks. It is built through consistent effort, patience, and follow-through.",
+    "active": true
+  },
+  {
+    "category": "Motivation",
+    "topic": "Fresh Day, Fresh Focus",
+    "caption": "A new day is a chance to reset priorities, correct yesterday's mistakes, and move forward with purpose.",
+    "active": true
+  },
+  {
+    "category": "Motivation",
+    "topic": "Do the Work That Matters",
+    "caption": "Busy is not always productive. Give your best energy to work that creates real value.",
+    "active": true
+  },
+  {
+    "category": "Motivation",
+    "topic": "Learn and Improve",
+    "caption": "Every challenge can teach you something useful. Take the lesson, adjust, and keep going.",
+    "active": true
+  },
+  {
+    "category": "Motivation",
+    "topic": "Finish Strong",
+    "caption": "Starting well matters, but finishing with care is what turns effort into results.",
+    "active": true
+  },
+  {
+    "category": "Motivation",
+    "topic": "Believe in Better",
+    "caption": "Improvement begins when we believe a better process, better habit, or better result is possible.",
+    "active": true
+  },
+  {
+    "category": "Teamwork",
+    "topic": "Better Together",
+    "caption": "Strong teams share information, help when needed, and celebrate progress together. Cooperation makes difficult work lighter.",
+    "active": true
+  },
+  {
+    "category": "Teamwork",
+    "topic": "One Team, One Goal",
+    "caption": "Different roles can have different tasks while still moving toward the same goal. Keep the bigger picture in mind.",
+    "active": true
+  },
+  {
+    "category": "Teamwork",
+    "topic": "Help Makes a Difference",
+    "caption": "A quick answer, a useful reminder, or a helping hand can save a teammate time and keep work moving.",
+    "active": true
+  },
+  {
+    "category": "Teamwork",
+    "topic": "Share the Credit",
+    "caption": "Great results are rarely created by one person alone. Recognize the people who helped make the outcome possible.",
+    "active": true
+  },
+  {
+    "category": "Teamwork",
+    "topic": "Communicate, Coordinate, Complete",
+    "caption": "Teamwork works best when people communicate clearly, coordinate responsibilities, and follow through.",
+    "active": true
+  },
+  {
+    "category": "Teamwork",
+    "topic": "Ask, Don't Assume",
+    "caption": "When something is unclear, ask. A short conversation can prevent a long chain of avoidable mistakes.",
+    "active": true
+  },
+  {
+    "category": "Teamwork",
+    "topic": "Support the Handoff",
+    "caption": "Your task may be the starting point of someone else's. Complete it accurately and provide the information they need.",
+    "active": true
+  },
+  {
+    "category": "Teamwork",
+    "topic": "Different Strengths, Stronger Team",
+    "caption": "Teams become stronger when different skills and perspectives are used together.",
+    "active": true
+  },
+  {
+    "category": "Teamwork",
+    "topic": "Win as a Team",
+    "caption": "Individual effort matters, but shared success grows when everyone supports the same objective.",
+    "active": true
+  },
+  {
+    "category": "Teamwork",
+    "topic": "Make Collaboration Easy",
+    "caption": "Be responsive, clear, and dependable. These simple habits make you easier to work with.",
+    "active": true
+  },
+  {
+    "category": "Teamwork",
+    "topic": "Listen to the Team",
+    "caption": "Good teamwork includes speaking up and listening well. Useful ideas can come from anywhere.",
+    "active": true
+  },
+  {
+    "category": "Teamwork",
+    "topic": "No Task Is an Island",
+    "caption": "Most workplace tasks connect to someone else's work. Think about the next person in the process.",
+    "active": true
+  },
+  {
+    "category": "Teamwork",
+    "topic": "Teamwork in Action",
+    "caption": "Offer help when you can, ask for help when you need it, and keep everyone informed.",
+    "active": true
+  },
+  {
+    "category": "Teamwork",
+    "topic": "Build Trust Daily",
+    "caption": "Trust grows through small actions: keeping commitments, communicating honestly, and delivering what you promised.",
+    "active": true
+  },
+  {
+    "category": "Productivity & Time Management",
+    "topic": "Priorities First",
+    "caption": "Before getting lost in small tasks, identify the most important work for the day and give it your best focus.",
+    "active": true
+  },
+  {
+    "category": "Productivity & Time Management",
+    "topic": "Protect Your Focus",
+    "caption": "Notifications can wait. Give important tasks uninterrupted time whenever possible.",
+    "active": true
+  },
+  {
+    "category": "Productivity & Time Management",
+    "topic": "Plan Before You Rush",
+    "caption": "Five minutes of planning can prevent an hour of confusion. Know what needs to happen before you start.",
+    "active": true
+  },
+  {
+    "category": "Productivity & Time Management",
+    "topic": "Finish Before Adding More",
+    "caption": "Too many open tasks create mental clutter. Complete what you can before starting another non-urgent item.",
+    "active": true
+  },
+  {
+    "category": "Productivity & Time Management",
+    "topic": "Use Your Peak Hours",
+    "caption": "Notice when your focus is strongest and, when possible, use that time for work that requires deeper thinking.",
+    "active": true
+  },
+  {
+    "category": "Productivity & Time Management",
+    "topic": "Make a Short List",
+    "caption": "A realistic list of key priorities is often more useful than a long list you cannot finish.",
+    "active": true
+  },
+  {
+    "category": "Productivity & Time Management",
+    "topic": "Batch Similar Tasks",
+    "caption": "Grouping similar work can reduce switching time and help you stay in a productive rhythm.",
+    "active": true
+  },
+  {
+    "category": "Productivity & Time Management",
+    "topic": "Deadline Awareness",
+    "caption": "Do not wait for a deadline to become an emergency. Check due dates early and plan backward.",
+    "active": true
+  },
+  {
+    "category": "Productivity & Time Management",
+    "topic": "Work Smarter",
+    "caption": "Efficiency is not about rushing. It is about reducing unnecessary steps while protecting quality.",
+    "active": true
+  },
+  {
+    "category": "Productivity & Time Management",
+    "topic": "Take Useful Breaks",
+    "caption": "A short reset can restore focus. Step away briefly, then return ready to concentrate.",
+    "active": true
+  },
+  {
+    "category": "Productivity & Time Management",
+    "topic": "Close the Loop",
+    "caption": "A task is not complete until the needed update, file, or confirmation reaches the right person.",
+    "active": true
+  },
+  {
+    "category": "Productivity & Time Management",
+    "topic": "Make Tomorrow Easier",
+    "caption": "Before ending the day, organize your workspace and note tomorrow's first priorities.",
+    "active": true
+  },
+  {
+    "category": "Productivity & Time Management",
+    "topic": "Focus on Outcomes",
+    "caption": "Measure a productive day by meaningful work completed, not simply by how busy it felt.",
+    "active": true
+  },
+  {
+    "category": "Productivity & Time Management",
+    "topic": "Time Is a Team Resource",
+    "caption": "Delays can affect more than your own schedule. Timely work helps everyone downstream.",
+    "active": true
+  },
+  {
+    "category": "Workplace Etiquette",
+    "topic": "Respect Goes a Long Way",
+    "caption": "Professional courtesy is simple: greet people, listen when they speak, and treat everyone's time with respect.",
+    "active": true
+  },
+  {
+    "category": "Workplace Etiquette",
+    "topic": "Keep Shared Spaces Ready",
+    "caption": "Leave shared work areas clean and usable for the next person. Small consideration makes a better workplace.",
+    "active": true
+  },
+  {
+    "category": "Workplace Etiquette",
+    "topic": "Professional Even Under Pressure",
+    "caption": "Busy days can be stressful. Keep communication respectful, especially when solving problems.",
+    "active": true
+  },
+  {
+    "category": "Workplace Etiquette",
+    "topic": "Mind the Volume",
+    "caption": "In shared spaces, keep calls and conversations at a level that lets others concentrate.",
+    "active": true
+  },
+  {
+    "category": "Workplace Etiquette",
+    "topic": "Be Considerate",
+    "caption": "Before interrupting someone, consider whether the matter is urgent or whether a message would work just as well.",
+    "active": true
+  },
+  {
+    "category": "Workplace Etiquette",
+    "topic": "Respect People's Time",
+    "caption": "Come prepared to meetings and conversations so decisions can be made efficiently.",
+    "active": true
+  },
+  {
+    "category": "Workplace Etiquette",
+    "topic": "Courtesy Is Contagious",
+    "caption": "A simple thank-you, acknowledgment, or kind response can improve the tone of an entire workday.",
+    "active": true
+  },
+  {
+    "category": "Workplace Etiquette",
+    "topic": "Keep It Professional",
+    "caption": "Friendly workplaces are great, but professionalism still matters in words, behavior, and boundaries.",
+    "active": true
+  },
+  {
+    "category": "Workplace Etiquette",
+    "topic": "Clean Desk, Clear Start",
+    "caption": "A tidy workspace can make it easier to find what you need and begin tasks without distraction.",
+    "active": true
+  },
+  {
+    "category": "Workplace Etiquette",
+    "topic": "Use the Right Channel",
+    "caption": "Choose the communication channel that fits the message. Urgent matters and routine updates do not always belong in the same place.",
+    "active": true
+  },
+  {
+    "category": "Workplace Etiquette",
+    "topic": "Acknowledge Messages",
+    "caption": "Even when a full answer will take time, a brief acknowledgment can let the sender know their message was received.",
+    "active": true
+  },
+  {
+    "category": "Workplace Etiquette",
+    "topic": "Respect Differences",
+    "caption": "People work and communicate differently. Patience and respect help diverse teams collaborate well.",
+    "active": true
+  },
+  {
+    "category": "Workplace Etiquette",
+    "topic": "Think Before You Send",
+    "caption": "Read important messages once more before sending. Check the tone, recipient, attachment, and details.",
+    "active": true
+  },
+  {
+    "category": "Workplace Etiquette",
+    "topic": "Good Manners, Good Work",
+    "caption": "Professional etiquette is not just about being polite; it helps work move with less friction.",
+    "active": true
+  },
+  {
+    "category": "Communication",
+    "topic": "Clear Beats Complicated",
+    "caption": "Use simple, direct language when sharing instructions or updates. Clarity saves time.",
+    "active": true
+  },
+  {
+    "category": "Communication",
+    "topic": "Include the Subject",
+    "caption": "A clear email subject helps recipients understand the purpose of your message and find it again later.",
+    "active": true
+  },
+  {
+    "category": "Communication",
+    "topic": "Complete the Details",
+    "caption": "When requesting action, include the who, what, when, and any file or reference the recipient needs.",
+    "active": true
+  },
+  {
+    "category": "Communication",
+    "topic": "Confirm Understanding",
+    "caption": "For important instructions, a quick confirmation can prevent misunderstandings later.",
+    "active": true
+  },
+  {
+    "category": "Communication",
+    "topic": "Update Before They Ask",
+    "caption": "If a deadline or status changes, inform the people affected as early as possible.",
+    "active": true
+  },
+  {
+    "category": "Communication",
+    "topic": "Listen for Meaning",
+    "caption": "Good communication is not only about hearing words. Pay attention to the concern or need behind them.",
+    "active": true
+  },
+  {
+    "category": "Communication",
+    "topic": "Keep Messages Actionable",
+    "caption": "Make it easy for the reader to know what you need from them and when you need it.",
+    "active": true
+  },
+  {
+    "category": "Communication",
+    "topic": "Tone Matters",
+    "caption": "Text can sound different from how you intended. Read your message from the recipient's perspective before sending.",
+    "active": true
+  },
+  {
+    "category": "Communication",
+    "topic": "Use Facts First",
+    "caption": "When resolving a workplace issue, start with verified information and keep assumptions separate.",
+    "active": true
+  },
+  {
+    "category": "Communication",
+    "topic": "One Message, One Purpose",
+    "caption": "When possible, keep a message focused so the requested action is easy to identify.",
+    "active": true
+  },
+  {
+    "category": "Communication",
+    "topic": "Ask Better Questions",
+    "caption": "Specific questions usually produce clearer answers. Explain the context and what you need to know.",
+    "active": true
+  },
+  {
+    "category": "Communication",
+    "topic": "Document Key Decisions",
+    "caption": "After important discussions, record the agreed action, owner, and deadline so everyone stays aligned.",
+    "active": true
+  },
+  {
+    "category": "Communication",
+    "topic": "Speak Up Early",
+    "caption": "If you see a risk or obstacle, raise it early enough for the team to respond.",
+    "active": true
+  },
+  {
+    "category": "Communication",
+    "topic": "Communication Builds Trust",
+    "caption": "Reliable updates and clear expectations help people work together with confidence.",
+    "active": true
+  },
+  {
+    "category": "Professional Growth",
+    "topic": "Learn Something Today",
+    "caption": "Professional growth does not always require a course. A new shortcut, process, or insight can improve tomorrow's work.",
+    "active": true
+  },
+  {
+    "category": "Professional Growth",
+    "topic": "Feedback Is Information",
+    "caption": "Useful feedback gives you information you can act on. Listen, evaluate it, and use what helps you improve.",
+    "active": true
+  },
+  {
+    "category": "Professional Growth",
+    "topic": "Ask Why",
+    "caption": "Understanding why a process exists can help you follow it better and spot opportunities to improve it.",
+    "active": true
+  },
+  {
+    "category": "Professional Growth",
+    "topic": "Build Useful Skills",
+    "caption": "Choose skills that make your work more accurate, efficient, or valuable, then practice them consistently.",
+    "active": true
+  },
+  {
+    "category": "Professional Growth",
+    "topic": "Stay Curious",
+    "caption": "Curiosity turns routine work into opportunities to learn how systems, people, and decisions connect.",
+    "active": true
+  },
+  {
+    "category": "Professional Growth",
+    "topic": "Teach What You Know",
+    "caption": "Sharing useful knowledge strengthens the team and helps you understand the subject even better.",
+    "active": true
+  },
+  {
+    "category": "Professional Growth",
+    "topic": "Keep a Learning List",
+    "caption": "When you encounter something you do not know, write it down and make time to learn it.",
+    "active": true
+  },
+  {
+    "category": "Professional Growth",
+    "topic": "Own Your Development",
+    "caption": "Managers and mentors can guide you, but long-term growth also depends on your willingness to learn.",
+    "active": true
+  },
+  {
+    "category": "Professional Growth",
+    "topic": "Practice Makes Professional",
+    "caption": "Skills improve through repetition. Use everyday work as a chance to sharpen your craft.",
+    "active": true
+  },
+  {
+    "category": "Professional Growth",
+    "topic": "Learn From Mistakes",
+    "caption": "A mistake becomes more valuable when you understand the cause and change the process that allowed it.",
+    "active": true
+  },
+  {
+    "category": "Professional Growth",
+    "topic": "Stretch Your Skills",
+    "caption": "Take on manageable challenges that require you to learn something new.",
+    "active": true
+  },
+  {
+    "category": "Professional Growth",
+    "topic": "Document What Works",
+    "caption": "When you discover a better way to do something, document it so the improvement can be repeated.",
+    "active": true
+  },
+  {
+    "category": "Professional Growth",
+    "topic": "Stay Adaptable",
+    "caption": "Tools and processes change. The ability to learn and adjust is a valuable workplace skill.",
+    "active": true
+  },
+  {
+    "category": "Professional Growth",
+    "topic": "Growth Is Continuous",
+    "caption": "You do not graduate from learning. Strong professionals keep improving throughout their careers.",
+    "active": true
+  },
+  {
+    "category": "Leadership",
+    "topic": "Lead by Example",
+    "caption": "The standards you consistently demonstrate often influence others more than the standards you simply talk about.",
+    "active": true
+  },
+  {
+    "category": "Leadership",
+    "topic": "Clarity Is Leadership",
+    "caption": "People work better when expectations, priorities, and responsibilities are clear.",
+    "active": true
+  },
+  {
+    "category": "Leadership",
+    "topic": "Recognize Good Work",
+    "caption": "Specific recognition helps people understand what they did well and encourages strong habits.",
+    "active": true
+  },
+  {
+    "category": "Leadership",
+    "topic": "Make Space for Ideas",
+    "caption": "Leadership includes creating room for others to contribute suggestions, questions, and concerns.",
+    "active": true
+  },
+  {
+    "category": "Leadership",
+    "topic": "Decide, Then Communicate",
+    "caption": "A decision is more useful when the people affected understand what changes and what happens next.",
+    "active": true
+  },
+  {
+    "category": "Leadership",
+    "topic": "Support Accountability",
+    "caption": "Set clear expectations, follow up consistently, and address problems fairly.",
+    "active": true
+  },
+  {
+    "category": "Leadership",
+    "topic": "Stay Calm, Stay Useful",
+    "caption": "During pressure, calm communication helps teams focus on solving the problem instead of amplifying it.",
+    "active": true
+  },
+  {
+    "category": "Leadership",
+    "topic": "Develop People",
+    "caption": "Strong leaders do not only complete today's work; they help people become more capable for tomorrow.",
+    "active": true
+  },
+  {
+    "category": "Leadership",
+    "topic": "Listen Before Deciding",
+    "caption": "Understanding different perspectives can improve decisions and reduce avoidable blind spots.",
+    "active": true
+  },
+  {
+    "category": "Leadership",
+    "topic": "Give Context",
+    "caption": "People often perform better when they understand not just what to do, but why it matters.",
+    "active": true
+  },
+  {
+    "category": "Leadership",
+    "topic": "Remove Roadblocks",
+    "caption": "Leadership includes noticing obstacles that prevent good work and helping the team resolve them.",
+    "active": true
+  },
+  {
+    "category": "Leadership",
+    "topic": "Be Consistent",
+    "caption": "Fair and predictable leadership builds trust because people understand what standards to expect.",
+    "active": true
+  },
+  {
+    "category": "Leadership",
+    "topic": "Own the Outcome",
+    "caption": "Leaders share credit for success and take responsibility for addressing problems.",
+    "active": true
+  },
+  {
+    "category": "Leadership",
+    "topic": "Lead With Respect",
+    "caption": "Authority may define a role, but respect strengthens the relationship behind it.",
+    "active": true
+  },
+  {
+    "category": "Employee Engagement",
+    "topic": "Your Ideas Matter",
+    "caption": "Useful improvements often begin with someone noticing a small problem and suggesting a better way.",
+    "active": true
+  },
+  {
+    "category": "Employee Engagement",
+    "topic": "Celebrate Progress",
+    "caption": "Do not wait only for major milestones. Recognizing steady progress helps teams maintain momentum.",
+    "active": true
+  },
+  {
+    "category": "Employee Engagement",
+    "topic": "Stay Connected",
+    "caption": "A quick check-in with teammates can strengthen coordination and make people feel included.",
+    "active": true
+  },
+  {
+    "category": "Employee Engagement",
+    "topic": "Participation Builds Culture",
+    "caption": "Workplace culture is shaped by everyday participation, not only by formal programs.",
+    "active": true
+  },
+  {
+    "category": "Employee Engagement",
+    "topic": "Share a Win",
+    "caption": "If something went well this week, share it. Positive results can teach and motivate the team.",
+    "active": true
+  },
+  {
+    "category": "Employee Engagement",
+    "topic": "Recognition Matters",
+    "caption": "Take a moment to acknowledge someone whose effort made your work easier or better.",
+    "active": true
+  },
+  {
+    "category": "Employee Engagement",
+    "topic": "Make Work Meaningful",
+    "caption": "Understanding who benefits from your work can make routine tasks feel more purposeful.",
+    "active": true
+  },
+  {
+    "category": "Employee Engagement",
+    "topic": "Contribute Beyond the Task",
+    "caption": "A helpful idea, encouraging word, or useful suggestion can add value beyond your formal duties.",
+    "active": true
+  },
+  {
+    "category": "Employee Engagement",
+    "topic": "Ask for Input",
+    "caption": "Inviting people into a discussion can surface practical insights that might otherwise be missed.",
+    "active": true
+  },
+  {
+    "category": "Employee Engagement",
+    "topic": "Stay Involved",
+    "caption": "Engagement grows when people understand goals, contribute ideas, and see how their work matters.",
+    "active": true
+  },
+  {
+    "category": "Employee Engagement",
+    "topic": "Create Small Moments",
+    "caption": "Team connection can grow through simple moments of appreciation, conversation, and shared success.",
+    "active": true
+  },
+  {
+    "category": "Employee Engagement",
+    "topic": "Be Part of the Solution",
+    "caption": "When raising a concern, consider bringing a possible solution or next step too.",
+    "active": true
+  },
+  {
+    "category": "Employee Engagement",
+    "topic": "Notice Good Work",
+    "caption": "Recognition does not have to be formal. A sincere thank-you can be meaningful.",
+    "active": true
+  },
+  {
+    "category": "Employee Engagement",
+    "topic": "Engagement Is Shared",
+    "caption": "A positive workplace is not created by one department alone. Everyone contributes to the experience.",
+    "active": true
+  },
+  {
+    "category": "Customer Service",
+    "topic": "Listen First",
+    "caption": "Before offering a solution, make sure you understand what the customer actually needs.",
+    "active": true
+  },
+  {
+    "category": "Customer Service",
+    "topic": "Clear and Courteous",
+    "caption": "Customers remember how they were treated. Communicate clearly, respectfully, and with patience.",
+    "active": true
+  },
+  {
+    "category": "Customer Service",
+    "topic": "Own the Follow-Up",
+    "caption": "If you promise an update, make sure it happens. Reliability builds confidence.",
+    "active": true
+  },
+  {
+    "category": "Customer Service",
+    "topic": "Make It Easy",
+    "caption": "Whenever possible, reduce unnecessary steps and explain the process in a way customers can understand.",
+    "active": true
+  },
+  {
+    "category": "Customer Service",
+    "topic": "Accuracy Builds Trust",
+    "caption": "Fast service matters, but correct information matters too. Verify important details before responding.",
+    "active": true
+  },
+  {
+    "category": "Customer Service",
+    "topic": "Stay Professional",
+    "caption": "A difficult interaction is still an opportunity to demonstrate patience and professionalism.",
+    "active": true
+  },
+  {
+    "category": "Customer Service",
+    "topic": "Set Realistic Expectations",
+    "caption": "It is better to give an honest timeline than to promise something you cannot deliver.",
+    "active": true
+  },
+  {
+    "category": "Customer Service",
+    "topic": "Close With Clarity",
+    "caption": "Before ending an interaction, make sure the customer knows what happens next.",
+    "active": true
+  },
+  {
+    "category": "Customer Service",
+    "topic": "Service Is Teamwork",
+    "caption": "Even if you are not customer-facing, your work may affect the customer's experience downstream.",
+    "active": true
+  },
+  {
+    "category": "Customer Service",
+    "topic": "Respond With Empathy",
+    "caption": "You do not need to agree with every complaint to acknowledge the customer's concern respectfully.",
+    "active": true
+  },
+  {
+    "category": "Customer Service",
+    "topic": "Know the Process",
+    "caption": "Strong service comes from understanding the process well enough to guide people confidently.",
+    "active": true
+  },
+  {
+    "category": "Customer Service",
+    "topic": "Protect the Relationship",
+    "caption": "Solve the immediate issue while also considering how your response affects long-term trust.",
+    "active": true
+  },
+  {
+    "category": "Customer Service",
+    "topic": "Details Matter",
+    "caption": "Names, dates, amounts, and instructions deserve careful attention in customer-facing work.",
+    "active": true
+  },
+  {
+    "category": "Customer Service",
+    "topic": "Every Interaction Counts",
+    "caption": "A single helpful interaction can strengthen a customer's impression of the whole organization.",
+    "active": true
+  },
+  {
+    "category": "Workplace Safety",
+    "topic": "Safety Starts With Awareness",
+    "caption": "Pay attention to your surroundings and address hazards before they become incidents.",
+    "active": true
+  },
+  {
+    "category": "Workplace Safety",
+    "topic": "Keep Walkways Clear",
+    "caption": "Boxes, cables, and clutter can create unnecessary risks. Keep paths and exits unobstructed.",
+    "active": true
+  },
+  {
+    "category": "Workplace Safety",
+    "topic": "Report Hazards Early",
+    "caption": "If you notice something unsafe, report it promptly so it can be corrected.",
+    "active": true
+  },
+  {
+    "category": "Workplace Safety",
+    "topic": "Use Equipment Properly",
+    "caption": "Follow the intended procedure and safety guidance when using workplace tools and equipment.",
+    "active": true
+  },
+  {
+    "category": "Workplace Safety",
+    "topic": "Do Not Rush Safety",
+    "caption": "Saving a minute is never worth creating an avoidable risk. Use the proper process.",
+    "active": true
+  },
+  {
+    "category": "Workplace Safety",
+    "topic": "Know Your Exits",
+    "caption": "Be familiar with emergency exits and basic workplace emergency procedures before you need them.",
+    "active": true
+  },
+  {
+    "category": "Workplace Safety",
+    "topic": "Safe Work Is Good Work",
+    "caption": "Quality includes completing a task without creating unnecessary risk for yourself or others.",
+    "active": true
+  },
+  {
+    "category": "Workplace Safety",
+    "topic": "Lift With Care",
+    "caption": "Use proper technique and ask for help with loads that are awkward or too heavy to handle safely.",
+    "active": true
+  },
+  {
+    "category": "Workplace Safety",
+    "topic": "Keep It Dry",
+    "caption": "Wet or slippery floors should be addressed or reported promptly to reduce slip hazards.",
+    "active": true
+  },
+  {
+    "category": "Workplace Safety",
+    "topic": "Stay Alert",
+    "caption": "Fatigue and distraction can increase mistakes. Give safety-sensitive tasks your full attention.",
+    "active": true
+  },
+  {
+    "category": "Workplace Safety",
+    "topic": "Protect Shared Spaces",
+    "caption": "Safety improves when everyone leaves work areas orderly and reports problems.",
+    "active": true
+  },
+  {
+    "category": "Workplace Safety",
+    "topic": "Follow the Procedure",
+    "caption": "Safety procedures exist for a reason. Consistent compliance protects people and operations.",
+    "active": true
+  },
+  {
+    "category": "Workplace Safety",
+    "topic": "Emergency Information Matters",
+    "caption": "Know where to find emergency contacts, first-aid resources, and relevant workplace instructions.",
+    "active": true
+  },
+  {
+    "category": "Workplace Safety",
+    "topic": "Safety Is Everyone's Role",
+    "caption": "A safer workplace is created when everyone notices risks and takes responsible action.",
+    "active": true
+  },
+  {
+    "category": "Wellness",
+    "topic": "Pause and Reset",
+    "caption": "A brief pause between demanding tasks can help you return with better focus and patience.",
+    "active": true
+  },
+  {
+    "category": "Wellness",
+    "topic": "Hydration Reminder",
+    "caption": "Busy day? Remember to drink water. Simple physical needs can affect energy and concentration.",
+    "active": true
+  },
+  {
+    "category": "Wellness",
+    "topic": "Protect Your Energy",
+    "caption": "Good work requires sustainable effort. Pace yourself instead of treating every task like an emergency.",
+    "active": true
+  },
+  {
+    "category": "Wellness",
+    "topic": "Move a Little",
+    "caption": "If your work keeps you seated for long periods, take reasonable opportunities to stand, stretch, and move.",
+    "active": true
+  },
+  {
+    "category": "Wellness",
+    "topic": "Use Your Break",
+    "caption": "Breaks are there to help you reset. Step away when appropriate and return refreshed.",
+    "active": true
+  },
+  {
+    "category": "Wellness",
+    "topic": "Healthy Boundaries",
+    "caption": "When possible, keep work priorities organized so urgent tasks do not consume every moment.",
+    "active": true
+  },
+  {
+    "category": "Wellness",
+    "topic": "Breathe Before Replying",
+    "caption": "When a message frustrates you, give yourself a moment before responding. Calm replies usually solve more.",
+    "active": true
+  },
+  {
+    "category": "Wellness",
+    "topic": "Rest Supports Performance",
+    "caption": "Consistent rest outside work supports attention, decision-making, and energy during the workday.",
+    "active": true
+  },
+  {
+    "category": "Wellness",
+    "topic": "Check Your Posture",
+    "caption": "A small adjustment to your chair, screen, or posture can make long desk sessions more comfortable.",
+    "active": true
+  },
+  {
+    "category": "Wellness",
+    "topic": "Mental Reset",
+    "caption": "When your mind feels overloaded, write down your next few priorities instead of trying to hold everything at once.",
+    "active": true
+  },
+  {
+    "category": "Wellness",
+    "topic": "Kindness Helps",
+    "caption": "A respectful workplace can reduce unnecessary stress. The way we treat one another matters.",
+    "active": true
+  },
+  {
+    "category": "Wellness",
+    "topic": "Ask for Clarity",
+    "caption": "Uncertainty can create stress. When expectations are unclear, ask the right person for clarification.",
+    "active": true
+  },
+  {
+    "category": "Wellness",
+    "topic": "One Thing at a Time",
+    "caption": "Constant multitasking can be exhausting. Focus on one meaningful task when the work allows it.",
+    "active": true
+  },
+  {
+    "category": "Wellness",
+    "topic": "Sustainable Success",
+    "caption": "Productivity is not about running at maximum speed all day. Sustainable habits support consistent performance.",
+    "active": true
+  },
+  {
+    "category": "Positive Workplace Culture",
+    "topic": "Culture Is Daily",
+    "caption": "Workplace culture is built through everyday behavior: how we communicate, cooperate, and respond when things go wrong.",
+    "active": true
+  },
+  {
+    "category": "Positive Workplace Culture",
+    "topic": "Respect Is the Standard",
+    "caption": "Different roles and personalities deserve the same basic professionalism and respect.",
+    "active": true
+  },
+  {
+    "category": "Positive Workplace Culture",
+    "topic": "Make Room for Kindness",
+    "caption": "A demanding workday becomes easier when people choose patience and consideration.",
+    "active": true
+  },
+  {
+    "category": "Positive Workplace Culture",
+    "topic": "Celebrate Without Comparing",
+    "caption": "Recognize someone's success without turning it into a comparison with someone else.",
+    "active": true
+  },
+  {
+    "category": "Positive Workplace Culture",
+    "topic": "Assume Less, Ask More",
+    "caption": "Before drawing conclusions about a coworker's actions, ask for context when appropriate.",
+    "active": true
+  },
+  {
+    "category": "Positive Workplace Culture",
+    "topic": "Welcome New Teammates",
+    "caption": "A helpful introduction or simple guidance can make a new employee's first days much easier.",
+    "active": true
+  },
+  {
+    "category": "Positive Workplace Culture",
+    "topic": "Keep Trust Strong",
+    "caption": "Confidential or sensitive workplace information should be handled responsibly.",
+    "active": true
+  },
+  {
+    "category": "Positive Workplace Culture",
+    "topic": "Solve, Don't Blame",
+    "caption": "When something goes wrong, understand the cause, correct it, and improve the process.",
+    "active": true
+  },
+  {
+    "category": "Positive Workplace Culture",
+    "topic": "Respectful Disagreement",
+    "caption": "Teams can disagree on ideas while still treating one another professionally.",
+    "active": true
+  },
+  {
+    "category": "Positive Workplace Culture",
+    "topic": "Share Knowledge",
+    "caption": "A workplace becomes stronger when useful information is not unnecessarily kept to one person.",
+    "active": true
+  },
+  {
+    "category": "Positive Workplace Culture",
+    "topic": "Appreciate the Everyday",
+    "caption": "Reliable everyday contributions deserve recognition, not only exceptional moments.",
+    "active": true
+  },
+  {
+    "category": "Positive Workplace Culture",
+    "topic": "Be the Tone You Want",
+    "caption": "If you want a respectful and helpful workplace, demonstrate those qualities in your own interactions.",
+    "active": true
+  },
+  {
+    "category": "Positive Workplace Culture",
+    "topic": "Include People",
+    "caption": "Make reasonable efforts to keep relevant teammates informed and included in work that affects them.",
+    "active": true
+  },
+  {
+    "category": "Positive Workplace Culture",
+    "topic": "Culture Belongs to Everyone",
+    "caption": "Policies can guide culture, but everyday employee behavior is what brings it to life.",
+    "active": true
+  },
+  {
+    "category": "Accountability & Integrity",
+    "topic": "Do What You Said",
+    "caption": "Following through on commitments is one of the simplest ways to build professional trust.",
+    "active": true
+  },
+  {
+    "category": "Accountability & Integrity",
+    "topic": "Own the Mistake",
+    "caption": "If you make an error, acknowledge it, correct what you can, and help prevent a repeat.",
+    "active": true
+  },
+  {
+    "category": "Accountability & Integrity",
+    "topic": "Accuracy Over Convenience",
+    "caption": "When information matters, verify it rather than choosing the easiest assumption.",
+    "active": true
+  },
+  {
+    "category": "Accountability & Integrity",
+    "topic": "Speak With Facts",
+    "caption": "Be careful not to present guesses or incomplete information as certainty.",
+    "active": true
+  },
+  {
+    "category": "Accountability & Integrity",
+    "topic": "Protect Confidential Information",
+    "caption": "Handle employee, customer, and company information only through appropriate channels and with proper care.",
+    "active": true
+  },
+  {
+    "category": "Accountability & Integrity",
+    "topic": "Be Honest About Status",
+    "caption": "If a task is delayed, a clear update is more useful than silence.",
+    "active": true
+  },
+  {
+    "category": "Accountability & Integrity",
+    "topic": "Accountability Is Action",
+    "caption": "Taking responsibility includes identifying the next step, not only explaining what happened.",
+    "active": true
+  },
+  {
+    "category": "Accountability & Integrity",
+    "topic": "Keep Good Records",
+    "caption": "Accurate documentation supports accountability and makes future questions easier to resolve.",
+    "active": true
+  },
+  {
+    "category": "Accountability & Integrity",
+    "topic": "Follow the Right Process",
+    "caption": "Shortcuts can create bigger problems later. Use established procedures unless an authorized change is made.",
+    "active": true
+  },
+  {
+    "category": "Accountability & Integrity",
+    "topic": "Integrity When Unseen",
+    "caption": "Professional integrity matters even when nobody is watching the task being done.",
+    "active": true
+  },
+  {
+    "category": "Accountability & Integrity",
+    "topic": "Correct the Record",
+    "caption": "If you discover that information you shared was wrong, update the affected people promptly.",
+    "active": true
+  },
+  {
+    "category": "Accountability & Integrity",
+    "topic": "Ask When Unsure",
+    "caption": "Guessing can be risky. When policy or procedure is unclear, confirm before acting.",
+    "active": true
+  },
+  {
+    "category": "Accountability & Integrity",
+    "topic": "Take Ownership",
+    "caption": "Treat assigned work as something you are responsible for carrying through, not merely starting.",
+    "active": true
+  },
+  {
+    "category": "Accountability & Integrity",
+    "topic": "Trust Takes Time",
+    "caption": "Integrity is built through consistent choices and can be damaged quickly. Protect it in the small things.",
+    "active": true
+  },
+  {
+    "category": "Quality of Work",
+    "topic": "Check Before You Send",
+    "caption": "A quick review can catch missing attachments, incorrect figures, and unclear wording before they become problems.",
+    "active": true
+  },
+  {
+    "category": "Quality of Work",
+    "topic": "Quality Is a Habit",
+    "caption": "Consistently good work comes from repeatable habits, not occasional bursts of extra effort.",
+    "active": true
+  },
+  {
+    "category": "Quality of Work",
+    "topic": "Details Create Confidence",
+    "caption": "Accurate names, dates, totals, and records help others trust the work they receive.",
+    "active": true
+  },
+  {
+    "category": "Quality of Work",
+    "topic": "Slow Down at the Finish",
+    "caption": "Many errors happen when we rush the final step. Take a moment to review before submitting.",
+    "active": true
+  },
+  {
+    "category": "Quality of Work",
+    "topic": "Use a Checklist",
+    "caption": "For recurring tasks, a simple checklist can protect quality and reduce forgotten steps.",
+    "active": true
+  },
+  {
+    "category": "Quality of Work",
+    "topic": "Fix the Cause",
+    "caption": "When an error repeats, look beyond the individual mistake and improve the process behind it.",
+    "active": true
+  },
+  {
+    "category": "Quality of Work",
+    "topic": "Complete Means Complete",
+    "caption": "Before marking a task done, confirm that all required information, approvals, and follow-ups are included.",
+    "active": true
+  },
+  {
+    "category": "Quality of Work",
+    "topic": "Consistency Matters",
+    "caption": "A reliable standard of work is often more valuable than occasional perfection.",
+    "active": true
+  },
+  {
+    "category": "Quality of Work",
+    "topic": "Ask for a Second Look",
+    "caption": "For high-impact work, a checker or peer review can catch issues that are easy to miss.",
+    "active": true
+  },
+  {
+    "category": "Quality of Work",
+    "topic": "Make It Usable",
+    "caption": "Quality work should not only be correct; it should also be clear and useful to the next person.",
+    "active": true
+  },
+  {
+    "category": "Quality of Work",
+    "topic": "Document Changes",
+    "caption": "When important information changes, make sure the current version is clear and accessible.",
+    "active": true
+  },
+  {
+    "category": "Quality of Work",
+    "topic": "Learn From Rework",
+    "caption": "If something has to be redone, identify what would prevent the same rework next time.",
+    "active": true
+  },
+  {
+    "category": "Quality of Work",
+    "topic": "Accuracy Saves Time",
+    "caption": "Careful work at the beginning often prevents lengthy corrections later.",
+    "active": true
+  },
+  {
+    "category": "Quality of Work",
+    "topic": "Take Pride in the Finish",
+    "caption": "Give the final version the same attention you gave the first step.",
+    "active": true
+  },
+  {
+    "category": "Friday & Weekend",
+    "topic": "Friday Finish",
+    "caption": "The weekend is close, but the workday still deserves a strong finish. Wrap up priorities and leave Monday a clean start.",
+    "active": true
+  },
+  {
+    "category": "Friday & Weekend",
+    "topic": "Finish the Week Well",
+    "caption": "Before signing off, close important loops, send needed updates, and note anything that should continue next week.",
+    "active": true
+  },
+  {
+    "category": "Friday & Weekend",
+    "topic": "Friday Reflection",
+    "caption": "What went well this week? What can improve next week? A quick reflection can turn experience into progress.",
+    "active": true
+  },
+  {
+    "category": "Friday & Weekend",
+    "topic": "Weekend Loading",
+    "caption": "Complete the important tasks, organize your workspace, and let the weekend arrive without unfinished surprises.",
+    "active": true
+  },
+  {
+    "category": "Friday & Weekend",
+    "topic": "End on a Good Note",
+    "caption": "A thoughtful Friday handoff can make Monday much easier for you and your teammates.",
+    "active": true
+  },
+  {
+    "category": "Friday & Weekend",
+    "topic": "Friday Gratitude",
+    "caption": "Take a moment to appreciate a teammate, a completed goal, or something useful you learned this week.",
+    "active": true
+  },
+  {
+    "category": "Friday & Weekend",
+    "topic": "One Last Push",
+    "caption": "Friday energy may feel different, but there is still time to complete one meaningful task well.",
+    "active": true
+  },
+  {
+    "category": "Friday & Weekend",
+    "topic": "Prepare for Monday",
+    "caption": "Future you will appreciate a short note with Monday's first priorities.",
+    "active": true
+  },
+  {
+    "category": "Friday & Weekend",
+    "topic": "Weekly Win",
+    "caption": "Celebrate a useful win from the week, even if it was small. Progress deserves to be noticed.",
+    "active": true
+  },
+  {
+    "category": "Friday & Weekend",
+    "topic": "Friday Check-Out",
+    "caption": "Files saved? Updates sent? Priorities noted? Great—finish responsibly and enjoy your time to recharge.",
+    "active": true
+  },
+  {
+    "category": "Friday & Weekend",
+    "topic": "Weekend Reset",
+    "caption": "Rest is part of sustainable performance. Use your time away from work to recharge in the way that works for you.",
+    "active": true
+  },
+  {
+    "category": "Friday & Weekend",
+    "topic": "Close the Tabs",
+    "caption": "Finish what needs finishing, organize what can wait, and give your brain permission to switch modes after work.",
+    "active": true
+  },
+  {
+    "category": "Friday & Weekend",
+    "topic": "Happy Friday",
+    "caption": "Keep the good energy going, support the team, and finish the week with professionalism.",
+    "active": true
+  },
+  {
+    "category": "Friday & Weekend",
+    "topic": "See You Next Week",
+    "caption": "A good ending creates a better beginning. Wrap up carefully and return ready for a fresh week.",
+    "active": true
+  },
+  {
+    "category": "Witty & Fun Workplace",
+    "topic": "Monday Loading...",
+    "caption": "Monday has entered the chat. Coffee ready, tasks lined up—let's turn that Monday mood into Monday momentum! ☕😄",
+    "active": true
+  },
+  {
+    "category": "Witty & Fun Workplace",
+    "topic": "Meeting Survival Kit",
+    "caption": "Today's meeting essentials: notebook, pen, good ideas... and the courage to say, “Can you repeat the last part?” 😂",
+    "active": true
+  },
+  {
+    "category": "Witty & Fun Workplace",
+    "topic": "Friday Detected!",
+    "caption": "Productivity level: still working. Weekend radar: definitely ON. 😂 Happy Friday, team!",
+    "active": true
+  },
+  {
+    "category": "Witty & Fun Workplace",
+    "topic": "Teamwork Mathematics",
+    "caption": "One person has an idea. Another improves it. Someone brings coffee. Suddenly, we have teamwork. ☕🤝😄",
+    "active": true
+  },
+  {
+    "category": "Witty & Fun Workplace",
+    "topic": "Inbox Adventure",
+    "caption": "Opened the inbox for one email. Somehow came back with seven new tasks. Workplace magic! 📧😂",
+    "active": true
+  },
+  {
+    "category": "Witty & Fun Workplace",
+    "topic": "Coffee Has Joined the Meeting",
+    "caption": "Some meetings have attendees. The important ones also have coffee. ☕😄",
+    "active": true
+  },
+  {
+    "category": "Witty & Fun Workplace",
+    "topic": "Ctrl + S Your Day",
+    "caption": "Friendly reminder: save your files, save your work, and occasionally save yourself from having 37 browser tabs open. 😅",
+    "active": true
+  },
+  {
+    "category": "Witty & Fun Workplace",
+    "topic": "Deadline Workout",
+    "caption": "Today's exercise: running... toward the deadline. 🏃‍♀️💻 Let's finish strong!",
+    "active": true
+  },
+  {
+    "category": "Witty & Fun Workplace",
+    "topic": "Office Detective",
+    "caption": "That moment when the file is exactly where you saved it... but somehow invisible for five minutes. 🔎😂",
+    "active": true
+  },
+  {
+    "category": "Witty & Fun Workplace",
+    "topic": "Reply-All Awareness",
+    "caption": "Before clicking Reply All, ask yourself: does the whole office need to experience this journey with me? 😄",
+    "active": true
+  },
+  {
+    "category": "Witty & Fun Workplace",
+    "topic": "Printer Negotiations",
+    "caption": "Approach the printer calmly. Show no fear. It can sense deadlines. 🖨️😂",
+    "active": true
+  },
+  {
+    "category": "Witty & Fun Workplace",
+    "topic": "Spreadsheet Olympics",
+    "caption": "Today's event: finding the one cell that broke the formula. Gold medal goes to whoever spots it first. 🥇📊",
+    "active": true
+  },
+  {
+    "category": "Witty & Fun Workplace",
+    "topic": "Password Memory Challenge",
+    "caption": "New password created. Five minutes later: “Who am I?” 😅🔐",
+    "active": true
+  },
+  {
+    "category": "Witty & Fun Workplace",
+    "topic": "Lunch Break Forecast",
+    "caption": "Today's forecast: 100% chance of asking, “What's for lunch?” before noon. 🍱😂",
+    "active": true
+  },
+  {
+    "category": "Witty & Fun Workplace",
+    "topic": "Email Attachment Plot Twist",
+    "caption": "Email: “Please see attached.” Attachment: nowhere to be found. We've all been there. 😅📎",
+    "active": true
+  },
+  {
+    "category": "Witty & Fun Workplace",
+    "topic": "Tuesday: Monday's Sequel",
+    "caption": "Good news: we survived Monday. Welcome to the sequel—Tuesday! Same team, new opportunities. 😄",
+    "active": true
+  },
+  {
+    "category": "Witty & Fun Workplace",
+    "topic": "Wednesday Halfway Club",
+    "caption": "Congratulations! You've reached the middle of the week. Please collect your imaginary achievement badge. 🏅😂",
+    "active": true
+  },
+  {
+    "category": "Witty & Fun Workplace",
+    "topic": "Thursday Energy",
+    "caption": "Thursday: close enough to Friday to feel hopeful, far enough away to keep working. 😄",
+    "active": true
+  },
+  {
+    "category": "Witty & Fun Workplace",
+    "topic": "Friday Keyboard Speed",
+    "caption": "Funny how typing gets 12% faster when the weekend is nearby. Totally scientific. 😂⌨️",
+    "active": true
+  },
+  {
+    "category": "Witty & Fun Workplace",
+    "topic": "The Mute Button",
+    "caption": "Remote meeting wisdom: always know whether you're muted before delivering your award-winning commentary. 🎤😅",
+    "active": true
+  },
+  {
+    "category": "Witty & Fun Workplace",
+    "topic": "Office Snack Economics",
+    "caption": "A shared snack disappears faster than any spreadsheet can calculate. 🍪📈",
+    "active": true
+  },
+  {
+    "category": "Witty & Fun Workplace",
+    "topic": "Calendar Tetris",
+    "caption": "Finding a meeting time that works for everyone: the professional version of Tetris. 📅😂",
+    "active": true
+  },
+  {
+    "category": "Witty & Fun Workplace",
+    "topic": "Quick Question",
+    "caption": "“Quick question” has entered the chat. Estimated duration: unknown. 😄",
+    "active": true
+  },
+  {
+    "category": "Witty & Fun Workplace",
+    "topic": "To-Do List Plot Twist",
+    "caption": "Crossed off three tasks. Added five more. The to-do list remains undefeated. 📝😂",
+    "active": true
+  },
+  {
+    "category": "Witty & Fun Workplace",
+    "topic": "Coffee Before Questions",
+    "caption": "System status: starting up. Please allow coffee to complete installation. ☕💻",
+    "active": true
+  },
+  {
+    "category": "Witty & Fun Workplace",
+    "topic": "Friday File Cleanup",
+    "caption": "Friday challenge: close the tabs you opened on Monday and no longer remember. 😅",
+    "active": true
+  },
+  {
+    "category": "Bible Verse & Workplace Inspiration",
+    "topic": "Work With Heart",
+    "caption": "“Whatever you do, work at it with all your heart.” — Colossians 3:23. Bring purpose, care, and integrity to the work entrusted to you.",
+    "active": true
+  },
+  {
+    "category": "Bible Verse & Workplace Inspiration",
+    "topic": "Strength for the Day",
+    "caption": "“I can do all things through Christ who strengthens me.” — Philippians 4:13. Sa challenging workday, keep the faith, do your best, and take things one step at a time.",
+    "active": true
+  },
+  {
+    "category": "Bible Verse & Workplace Inspiration",
+    "topic": "Commit Your Work",
+    "caption": "“Commit your work to the Lord, and your plans will be established.” — Proverbs 16:3. Start the day with purpose, then do your part with diligence.",
+    "active": true
+  },
+  {
+    "category": "Bible Verse & Workplace Inspiration",
+    "topic": "Let Your Light Shine",
+    "caption": "“Let your light shine before others.” — Matthew 5:16. Let kindness, honesty, and good work be seen in the way you treat people every day.",
+    "active": true
+  },
+  {
+    "category": "Bible Verse & Workplace Inspiration",
+    "topic": "A Time for Everything",
+    "caption": "“For everything there is a season.” — Ecclesiastes 3:1. May reminder na hindi lahat kailangang mangyari agad. Work faithfully through each season.",
+    "active": true
+  },
+  {
+    "category": "Bible Verse & Workplace Inspiration",
+    "topic": "Choose Kindness",
+    "caption": "“Be kind to one another.” — Ephesians 4:32. A little patience and kindness can make a busy workplace much better.",
+    "active": true
+  },
+  {
+    "category": "Bible Verse & Workplace Inspiration",
+    "topic": "Wisdom at Work",
+    "caption": "“If any of you lacks wisdom, let him ask of God.” — James 1:5. When decisions are difficult, seek wisdom, gather the facts, and choose carefully.",
+    "active": true
+  },
+  {
+    "category": "Bible Verse & Workplace Inspiration",
+    "topic": "Do Not Grow Weary",
+    "caption": "“Let us not grow weary of doing good.” — Galatians 6:9. Kapag nakakapagod ang araw, remember that consistent good work still matters.",
+    "active": true
+  },
+  {
+    "category": "Bible Verse & Workplace Inspiration",
+    "topic": "Encourage One Another",
+    "caption": "“Encourage one another and build one another up.” — 1 Thessalonians 5:11. A sincere word of encouragement can change someone's whole workday.",
+    "active": true
+  },
+  {
+    "category": "Bible Verse & Workplace Inspiration",
+    "topic": "Peace in a Busy Day",
+    "caption": "“Be still, and know that I am God.” — Psalm 46:10. When the day feels overwhelming, pause, refocus, and move forward calmly.",
+    "active": true
+  },
+  {
+    "category": "Bible Verse & Workplace Inspiration",
+    "topic": "Plans With Guidance",
+    "caption": "“Plans fail for lack of counsel, but with many advisers they succeed.” — Proverbs 15:22. Good teamwork includes asking, listening, and learning from others.",
+    "active": true
+  },
+  {
+    "category": "Bible Verse & Workplace Inspiration",
+    "topic": "Serve With Gladness",
+    "caption": "“Serve the Lord with gladness.” — Psalm 100:2. Whatever your role today, bring a willing heart and a positive spirit.",
+    "active": true
+  },
+  {
+    "category": "Bible Verse & Workplace Inspiration",
+    "topic": "Honest Work",
+    "caption": "“The integrity of the upright guides them.” — Proverbs 11:3. Integrity builds trust—in our records, decisions, commitments, and everyday work.",
+    "active": true
+  },
+  {
+    "category": "Bible Verse & Workplace Inspiration",
+    "topic": "Words That Build",
+    "caption": "“A gentle answer turns away wrath.” — Proverbs 15:1. Sa stressful conversations, calm and respectful words can help move things toward a solution.",
+    "active": true
+  },
+  {
+    "category": "Bible Verse & Workplace Inspiration",
+    "topic": "Strength and Courage",
+    "caption": "“Be strong and courageous.” — Joshua 1:9. Face today's responsibilities with courage, preparation, and faith.",
+    "active": true
+  },
+  {
+    "category": "Bible Verse & Workplace Inspiration",
+    "topic": "Faithful in Little Things",
+    "caption": "“Whoever can be trusted with very little can also be trusted with much.” — Luke 16:10. Small responsibilities handled well build reliability and trust.",
+    "active": true
+  },
+  {
+    "category": "Bible Verse & Workplace Inspiration",
+    "topic": "Better Together",
+    "caption": "“Two are better than one.” — Ecclesiastes 4:9. Teamwork reminds us that shared effort can accomplish more than working alone.",
+    "active": true
+  },
+  {
+    "category": "Bible Verse & Workplace Inspiration",
+    "topic": "Patience Today",
+    "caption": "“Love is patient, love is kind.” — 1 Corinthians 13:4. Patience and kindness belong not only at home, but also in how we work with others.",
+    "active": true
+  },
+  {
+    "category": "Bible Verse & Workplace Inspiration",
+    "topic": "Joyful Perspective",
+    "caption": "“This is the day the Lord has made; let us rejoice and be glad in it.” — Psalm 118:24. New day, new opportunity. Salubungin natin with gratitude and purpose.",
+    "active": true
+  },
+  {
+    "category": "Bible Verse & Workplace Inspiration",
+    "topic": "Rest and Renewal",
+    "caption": "“Come to me... and I will give you rest.” — Matthew 11:28. After doing your best, remember that rest and renewal matter too.",
+    "active": true
+  },
+  {
+    "category": "Taglish Witty & Fun",
+    "topic": "Morning Momentum",
+    "caption": "Start with one important task. Kapag nasimulan na, mas madaling tuloy-tuloy ang momentum. Kaya natin 'to! 💪",
+    "active": true
+  },
+  {
+    "category": "Filipino Workplace Motivation",
+    "topic": "Deadline Reminder",
+    "caption": "Deadline approaching? Huwag makipag-hide and seek sa task. 😄 Check priorities, make a plan, then finish strong.",
+    "active": true
+  },
+  {
+    "category": "Attendance & HR Taglish",
+    "topic": "Focus Muna",
+    "caption": "Focus muna bago scroll. Give your important work a little uninterrupted time—future you will say thank you. 😄",
+    "active": true
+  },
+  {
+    "category": "Communication Taglish",
+    "topic": "Small Win Today",
+    "caption": "May natapos ka today? That's progress. Small wins still count, so acknowledge it and move to the next goal.",
+    "active": true
+  },
+  {
+    "category": "Teamwork Taglish",
+    "topic": "Team Check",
+    "caption": "Quick team check: clear ba ang responsibilities at updates? Good coordination today prevents confusion tomorrow.",
+    "active": true
+  },
+  {
+    "category": "Productivity Taglish",
+    "topic": "Good Vibes at Work",
+    "caption": "Good vibes are better when paired with good work. Be positive, be helpful, and keep your commitments.",
+    "active": true
+  },
+  {
+    "category": "Workplace Positivity Taglish",
+    "topic": "Coffee Break Wisdom",
+    "caption": "Kape break is temporary; deadlines are persistent. ☕😂 Recharge, then balik tayo with fresh focus.",
+    "active": true
+  },
+  {
+    "category": "Taglish Witty & Fun",
+    "topic": "Work Smart Today",
+    "caption": "Hindi kailangang mabilis lahat. Work smart, check the details, and make sure the result is useful and accurate.",
+    "active": true
+  },
+  {
+    "category": "Filipino Workplace Motivation",
+    "topic": "Clear Communication",
+    "caption": "Clear message = less follow-up. Sabihin agad ang concern, needed action, and relevant deadline.",
+    "active": true
+  },
+  {
+    "category": "Attendance & HR Taglish",
+    "topic": "Ready, Set, Work",
+    "caption": "Ready na? Organize your priorities, clear unnecessary distractions, and give the first task your full attention.",
+    "active": true
+  },
+  {
+    "category": "Communication Taglish",
+    "topic": "Office Reality Check",
+    "caption": "Office reality: sometimes the 'quick task' has three attachments, two approvals, and a sequel. 😂 Plan accordingly!",
+    "active": true
+  },
+  {
+    "category": "Teamwork Taglish",
+    "topic": "Keep It Moving",
+    "caption": "Kapag may obstacle, communicate early. Mas madaling tumulong ang team kapag alam nila kung saan naka-stuck.",
+    "active": true
+  },
+  {
+    "category": "Productivity Taglish",
+    "topic": "Professional Tip",
+    "caption": "Professional tip of the day: check names, dates, numbers, recipients, and attachments before clicking Send.",
+    "active": true
+  },
+  {
+    "category": "Workplace Positivity Taglish",
+    "topic": "Daily Reminder",
+    "caption": "Friendly reminder: accurate records and timely submissions make everyone's processing smoother.",
+    "active": true
+  },
+  {
+    "category": "Taglish Witty & Fun",
+    "topic": "One Step Better",
+    "caption": "Improve one small thing today—one clearer email, one better checklist, or one more accurate report.",
+    "active": true
+  },
+  {
+    "category": "Filipino Workplace Motivation",
+    "topic": "Workday Energy",
+    "caption": "Energy check! Hindi kailangan 100% hype all day. Consistent, focused effort is already a win.",
+    "active": true
+  },
+  {
+    "category": "Attendance & HR Taglish",
+    "topic": "Task Mode On",
+    "caption": "Task mode ON. One priority, one clear next step, less unnecessary switching. Let's get it done.",
+    "active": true
+  },
+  {
+    "category": "Communication Taglish",
+    "topic": "Accuracy Matters",
+    "caption": "Accuracy matters. Ang mabilis na mali usually mas matagal ayusin kaysa sa maingat na tama.",
+    "active": true
+  },
+  {
+    "category": "Teamwork Taglish",
+    "topic": "Respect at Work",
+    "caption": "Respect makes teamwork easier. Listen, communicate professionally, and value other people's time.",
+    "active": true
+  },
+  {
+    "category": "Productivity Taglish",
+    "topic": "Finish Strong",
+    "caption": "Malapit na matapos ang araw—don't rush the final step. Review your work and finish with quality.",
+    "active": true
+  },
+  {
+    "category": "Workplace Positivity Taglish",
+    "topic": "Monday Mood",
+    "caption": "Monday mood: loading... ☕😄 Start gently, set priorities, then build momentum one task at a time.",
+    "active": true
+  },
+  {
+    "category": "Taglish Witty & Fun",
+    "topic": "Tuesday Push",
+    "caption": "Tuesday na! Monday survived. Keep the momentum and make one meaningful thing happen today.",
+    "active": true
+  },
+  {
+    "category": "Filipino Workplace Motivation",
+    "topic": "Midweek Check",
+    "caption": "Midweek check: ano na ang completed, ano ang pending, at ano ang kailangan ng follow-up? Reset and continue.",
+    "active": true
+  },
+  {
+    "category": "Attendance & HR Taglish",
+    "topic": "Thursday Momentum",
+    "caption": "Thursday momentum! Finish what you can today para hindi lahat maging Friday surprise. 😄",
+    "active": true
+  },
+  {
+    "category": "Communication Taglish",
+    "topic": "Friday Energy",
+    "caption": "Friday energy detected! Weekend later, quality work muna. Close important loops before signing off.",
+    "active": true
+  },
+  {
+    "category": "Teamwork Taglish",
+    "topic": "Office Humor",
+    "caption": "Office humor of the day: the file you need is always in the folder you already checked twice. 😂",
+    "active": true
+  },
+  {
+    "category": "Productivity Taglish",
+    "topic": "Email Wisdom",
+    "caption": "Email wisdom: 'Please see attached' works best kapag may actual attachment. 😅📎 Double-check before Send!",
+    "active": true
+  },
+  {
+    "category": "Workplace Positivity Taglish",
+    "topic": "Meeting Moment",
+    "caption": "Meeting moment: bring the agenda, bring your notes, and please bring the decision back with you. 😂",
+    "active": true
+  },
+  {
+    "category": "Taglish Witty & Fun",
+    "topic": "Team Spirit",
+    "caption": "Team spirit means hindi 'bahala ka diyan.' Share useful information, help when you can, and win together.",
+    "active": true
+  },
+  {
+    "category": "Filipino Workplace Motivation",
+    "topic": "HR Friendly Reminder",
+    "caption": "HR-friendly reminder: complete details + correct channel + timely submission = smoother processing for everyone.",
+    "active": true
+  },
+  {
+    "category": "Attendance & HR Taglish",
+    "topic": "Morning Momentum",
+    "caption": "Start with one important task. Kapag nasimulan na, mas madaling tuloy-tuloy ang momentum. Kaya natin 'to! 💪 Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Communication Taglish",
+    "topic": "Deadline Reminder",
+    "caption": "Deadline approaching? Huwag makipag-hide and seek sa task. 😄 Check priorities, make a plan, then finish strong. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Teamwork Taglish",
+    "topic": "Focus Muna",
+    "caption": "Focus muna bago scroll. Give your important work a little uninterrupted time—future you will say thank you. 😄 Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Productivity Taglish",
+    "topic": "Small Win Today",
+    "caption": "May natapos ka today? That's progress. Small wins still count, so acknowledge it and move to the next goal. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Workplace Positivity Taglish",
+    "topic": "Team Check",
+    "caption": "Quick team check: clear ba ang responsibilities at updates? Good coordination today prevents confusion tomorrow. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Taglish Witty & Fun",
+    "topic": "Good Vibes at Work",
+    "caption": "Good vibes are better when paired with good work. Be positive, be helpful, and keep your commitments. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Filipino Workplace Motivation",
+    "topic": "Coffee Break Wisdom",
+    "caption": "Kape break is temporary; deadlines are persistent. ☕😂 Recharge, then balik tayo with fresh focus. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Attendance & HR Taglish",
+    "topic": "Work Smart Today",
+    "caption": "Hindi kailangang mabilis lahat. Work smart, check the details, and make sure the result is useful and accurate. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Communication Taglish",
+    "topic": "Clear Communication",
+    "caption": "Clear message = less follow-up. Sabihin agad ang concern, needed action, and relevant deadline. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Teamwork Taglish",
+    "topic": "Ready, Set, Work",
+    "caption": "Ready na? Organize your priorities, clear unnecessary distractions, and give the first task your full attention. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Productivity Taglish",
+    "topic": "Office Reality Check",
+    "caption": "Office reality: sometimes the 'quick task' has three attachments, two approvals, and a sequel. 😂 Plan accordingly! Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Workplace Positivity Taglish",
+    "topic": "Keep It Moving",
+    "caption": "Kapag may obstacle, communicate early. Mas madaling tumulong ang team kapag alam nila kung saan naka-stuck. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Taglish Witty & Fun",
+    "topic": "Professional Tip",
+    "caption": "Professional tip of the day: check names, dates, numbers, recipients, and attachments before clicking Send. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Filipino Workplace Motivation",
+    "topic": "Daily Reminder",
+    "caption": "Friendly reminder: accurate records and timely submissions make everyone's processing smoother. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Attendance & HR Taglish",
+    "topic": "One Step Better",
+    "caption": "Improve one small thing today—one clearer email, one better checklist, or one more accurate report. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Communication Taglish",
+    "topic": "Workday Energy",
+    "caption": "Energy check! Hindi kailangan 100% hype all day. Consistent, focused effort is already a win. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Teamwork Taglish",
+    "topic": "Task Mode On",
+    "caption": "Task mode ON. One priority, one clear next step, less unnecessary switching. Let's get it done. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Productivity Taglish",
+    "topic": "Accuracy Matters",
+    "caption": "Accuracy matters. Ang mabilis na mali usually mas matagal ayusin kaysa sa maingat na tama. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Workplace Positivity Taglish",
+    "topic": "Respect at Work",
+    "caption": "Respect makes teamwork easier. Listen, communicate professionally, and value other people's time. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Taglish Witty & Fun",
+    "topic": "Finish Strong",
+    "caption": "Malapit na matapos ang araw—don't rush the final step. Review your work and finish with quality. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Filipino Workplace Motivation",
+    "topic": "Monday Mood",
+    "caption": "Monday mood: loading... ☕😄 Start gently, set priorities, then build momentum one task at a time. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Attendance & HR Taglish",
+    "topic": "Tuesday Push",
+    "caption": "Tuesday na! Monday survived. Keep the momentum and make one meaningful thing happen today. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Communication Taglish",
+    "topic": "Midweek Check",
+    "caption": "Midweek check: ano na ang completed, ano ang pending, at ano ang kailangan ng follow-up? Reset and continue. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Teamwork Taglish",
+    "topic": "Thursday Momentum",
+    "caption": "Thursday momentum! Finish what you can today para hindi lahat maging Friday surprise. 😄 Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Productivity Taglish",
+    "topic": "Friday Energy",
+    "caption": "Friday energy detected! Weekend later, quality work muna. Close important loops before signing off. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Workplace Positivity Taglish",
+    "topic": "Office Humor",
+    "caption": "Office humor of the day: the file you need is always in the folder you already checked twice. 😂 Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Taglish Witty & Fun",
+    "topic": "Email Wisdom",
+    "caption": "Email wisdom: 'Please see attached' works best kapag may actual attachment. 😅📎 Double-check before Send! Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Filipino Workplace Motivation",
+    "topic": "Meeting Moment",
+    "caption": "Meeting moment: bring the agenda, bring your notes, and please bring the decision back with you. 😂 Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Attendance & HR Taglish",
+    "topic": "Team Spirit",
+    "caption": "Team spirit means hindi 'bahala ka diyan.' Share useful information, help when you can, and win together. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Communication Taglish",
+    "topic": "HR Friendly Reminder",
+    "caption": "HR-friendly reminder: complete details + correct channel + timely submission = smoother processing for everyone. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Teamwork Taglish",
+    "topic": "Morning Momentum",
+    "caption": "Start with one important task. Kapag nasimulan na, mas madaling tuloy-tuloy ang momentum. Kaya natin 'to! 💪 Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Productivity Taglish",
+    "topic": "Deadline Reminder",
+    "caption": "Deadline approaching? Huwag makipag-hide and seek sa task. 😄 Check priorities, make a plan, then finish strong. Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Workplace Positivity Taglish",
+    "topic": "Focus Muna",
+    "caption": "Focus muna bago scroll. Give your important work a little uninterrupted time—future you will say thank you. 😄 Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Taglish Witty & Fun",
+    "topic": "Small Win Today",
+    "caption": "May natapos ka today? That's progress. Small wins still count, so acknowledge it and move to the next goal. Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Filipino Workplace Motivation",
+    "topic": "Team Check",
+    "caption": "Quick team check: clear ba ang responsibilities at updates? Good coordination today prevents confusion tomorrow. Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Attendance & HR Taglish",
+    "topic": "Good Vibes at Work",
+    "caption": "Good vibes are better when paired with good work. Be positive, be helpful, and keep your commitments. Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Communication Taglish",
+    "topic": "Coffee Break Wisdom",
+    "caption": "Kape break is temporary; deadlines are persistent. ☕😂 Recharge, then balik tayo with fresh focus. Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Teamwork Taglish",
+    "topic": "Work Smart Today",
+    "caption": "Hindi kailangang mabilis lahat. Work smart, check the details, and make sure the result is useful and accurate. Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Productivity Taglish",
+    "topic": "Clear Communication",
+    "caption": "Clear message = less follow-up. Sabihin agad ang concern, needed action, and relevant deadline. Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Workplace Positivity Taglish",
+    "topic": "Ready, Set, Work",
+    "caption": "Ready na? Organize your priorities, clear unnecessary distractions, and give the first task your full attention. Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Taglish Witty & Fun",
+    "topic": "Office Reality Check",
+    "caption": "Office reality: sometimes the 'quick task' has three attachments, two approvals, and a sequel. 😂 Plan accordingly! Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Filipino Workplace Motivation",
+    "topic": "Keep It Moving",
+    "caption": "Kapag may obstacle, communicate early. Mas madaling tumulong ang team kapag alam nila kung saan naka-stuck. Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Attendance & HR Taglish",
+    "topic": "Professional Tip",
+    "caption": "Professional tip of the day: check names, dates, numbers, recipients, and attachments before clicking Send. Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Communication Taglish",
+    "topic": "Daily Reminder",
+    "caption": "Friendly reminder: accurate records and timely submissions make everyone's processing smoother. Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Teamwork Taglish",
+    "topic": "One Step Better",
+    "caption": "Improve one small thing today—one clearer email, one better checklist, or one more accurate report. Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Productivity Taglish",
+    "topic": "Workday Energy",
+    "caption": "Energy check! Hindi kailangan 100% hype all day. Consistent, focused effort is already a win. Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Workplace Positivity Taglish",
+    "topic": "Task Mode On",
+    "caption": "Task mode ON. One priority, one clear next step, less unnecessary switching. Let's get it done. Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Taglish Witty & Fun",
+    "topic": "Accuracy Matters",
+    "caption": "Accuracy matters. Ang mabilis na mali usually mas matagal ayusin kaysa sa maingat na tama. Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Filipino Workplace Motivation",
+    "topic": "Respect at Work",
+    "caption": "Respect makes teamwork easier. Listen, communicate professionally, and value other people's time. Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Attendance & HR Taglish",
+    "topic": "Finish Strong",
+    "caption": "Malapit na matapos ang araw—don't rush the final step. Review your work and finish with quality. Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Communication Taglish",
+    "topic": "Monday Mood",
+    "caption": "Monday mood: loading... ☕😄 Start gently, set priorities, then build momentum one task at a time. Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Teamwork Taglish",
+    "topic": "Tuesday Push",
+    "caption": "Tuesday na! Monday survived. Keep the momentum and make one meaningful thing happen today. Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Productivity Taglish",
+    "topic": "Midweek Check",
+    "caption": "Midweek check: ano na ang completed, ano ang pending, at ano ang kailangan ng follow-up? Reset and continue. Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Workplace Positivity Taglish",
+    "topic": "Thursday Momentum",
+    "caption": "Thursday momentum! Finish what you can today para hindi lahat maging Friday surprise. 😄 Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Taglish Witty & Fun",
+    "topic": "Friday Energy",
+    "caption": "Friday energy detected! Weekend later, quality work muna. Close important loops before signing off. Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Filipino Workplace Motivation",
+    "topic": "Office Humor",
+    "caption": "Office humor of the day: the file you need is always in the folder you already checked twice. 😂 Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Attendance & HR Taglish",
+    "topic": "Email Wisdom",
+    "caption": "Email wisdom: 'Please see attached' works best kapag may actual attachment. 😅📎 Double-check before Send! Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Communication Taglish",
+    "topic": "Meeting Moment",
+    "caption": "Meeting moment: bring the agenda, bring your notes, and please bring the decision back with you. 😂 Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Teamwork Taglish",
+    "topic": "Team Spirit",
+    "caption": "Team spirit means hindi 'bahala ka diyan.' Share useful information, help when you can, and win together. Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Productivity Taglish",
+    "topic": "HR Friendly Reminder",
+    "caption": "HR-friendly reminder: complete details + correct channel + timely submission = smoother processing for everyone. Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Workplace Positivity Taglish",
+    "topic": "Morning Momentum",
+    "caption": "Start with one important task. Kapag nasimulan na, mas madaling tuloy-tuloy ang momentum. Kaya natin 'to! 💪 Let's make today's work count.",
+    "active": true
+  },
+  {
+    "category": "Taglish Witty & Fun",
+    "topic": "Deadline Reminder",
+    "caption": "Deadline approaching? Huwag makipag-hide and seek sa task. 😄 Check priorities, make a plan, then finish strong. Let's make today's work count.",
+    "active": true
+  },
+  {
+    "category": "Filipino Workplace Motivation",
+    "topic": "Focus Muna",
+    "caption": "Focus muna bago scroll. Give your important work a little uninterrupted time—future you will say thank you. 😄 Let's make today's work count.",
+    "active": true
+  },
+  {
+    "category": "Attendance & HR Taglish",
+    "topic": "Small Win Today",
+    "caption": "May natapos ka today? That's progress. Small wins still count, so acknowledge it and move to the next goal. Let's make today's work count.",
+    "active": true
+  },
+  {
+    "category": "Communication Taglish",
+    "topic": "Team Check",
+    "caption": "Quick team check: clear ba ang responsibilities at updates? Good coordination today prevents confusion tomorrow. Let's make today's work count.",
+    "active": true
+  },
+  {
+    "category": "Teamwork Taglish",
+    "topic": "Good Vibes at Work",
+    "caption": "Good vibes are better when paired with good work. Be positive, be helpful, and keep your commitments. Let's make today's work count.",
+    "active": true
+  },
+  {
+    "category": "Productivity Taglish",
+    "topic": "Coffee Break Wisdom",
+    "caption": "Kape break is temporary; deadlines are persistent. ☕😂 Recharge, then balik tayo with fresh focus. Let's make today's work count.",
+    "active": true
+  },
+  {
+    "category": "Workplace Positivity Taglish",
+    "topic": "Work Smart Today",
+    "caption": "Hindi kailangang mabilis lahat. Work smart, check the details, and make sure the result is useful and accurate. Let's make today's work count.",
+    "active": true
+  },
+  {
+    "category": "Taglish Witty & Fun",
+    "topic": "Clear Communication",
+    "caption": "Clear message = less follow-up. Sabihin agad ang concern, needed action, and relevant deadline. Let's make today's work count.",
+    "active": true
+  },
+  {
+    "category": "Filipino Workplace Motivation",
+    "topic": "Ready, Set, Work",
+    "caption": "Ready na? Organize your priorities, clear unnecessary distractions, and give the first task your full attention. Let's make today's work count.",
+    "active": true
+  },
+  {
+    "category": "Attendance & HR Taglish",
+    "topic": "Office Reality Check",
+    "caption": "Office reality: sometimes the 'quick task' has three attachments, two approvals, and a sequel. 😂 Plan accordingly! Let's make today's work count.",
+    "active": true
+  },
+  {
+    "category": "Communication Taglish",
+    "topic": "Keep It Moving",
+    "caption": "Kapag may obstacle, communicate early. Mas madaling tumulong ang team kapag alam nila kung saan naka-stuck. Let's make today's work count.",
+    "active": true
+  },
+  {
+    "category": "Teamwork Taglish",
+    "topic": "Professional Tip",
+    "caption": "Professional tip of the day: check names, dates, numbers, recipients, and attachments before clicking Send. Let's make today's work count.",
+    "active": true
+  },
+  {
+    "category": "Productivity Taglish",
+    "topic": "Daily Reminder",
+    "caption": "Friendly reminder: accurate records and timely submissions make everyone's processing smoother. Let's make today's work count.",
+    "active": true
+  },
+  {
+    "category": "Workplace Positivity Taglish",
+    "topic": "One Step Better",
+    "caption": "Improve one small thing today—one clearer email, one better checklist, or one more accurate report. Let's make today's work count.",
+    "active": true
+  },
+  {
+    "category": "Taglish Witty & Fun",
+    "topic": "Workday Energy",
+    "caption": "Energy check! Hindi kailangan 100% hype all day. Consistent, focused effort is already a win. Let's make today's work count.",
+    "active": true
+  },
+  {
+    "category": "Filipino Workplace Motivation",
+    "topic": "Task Mode On",
+    "caption": "Task mode ON. One priority, one clear next step, less unnecessary switching. Let's get it done. Let's make today's work count.",
+    "active": true
+  },
+  {
+    "category": "Attendance & HR Taglish",
+    "topic": "Accuracy Matters",
+    "caption": "Accuracy matters. Ang mabilis na mali usually mas matagal ayusin kaysa sa maingat na tama. Let's make today's work count.",
+    "active": true
+  },
+  {
+    "category": "Communication Taglish",
+    "topic": "Respect at Work",
+    "caption": "Respect makes teamwork easier. Listen, communicate professionally, and value other people's time. Let's make today's work count.",
+    "active": true
+  },
+  {
+    "category": "Teamwork Taglish",
+    "topic": "Finish Strong",
+    "caption": "Malapit na matapos ang araw—don't rush the final step. Review your work and finish with quality. Let's make today's work count.",
+    "active": true
+  },
+  {
+    "category": "Productivity Taglish",
+    "topic": "Monday Mood",
+    "caption": "Monday mood: loading... ☕😄 Start gently, set priorities, then build momentum one task at a time. Let's make today's work count.",
+    "active": true
+  },
+  {
+    "category": "Workplace Positivity Taglish",
+    "topic": "Tuesday Push",
+    "caption": "Tuesday na! Monday survived. Keep the momentum and make one meaningful thing happen today. Let's make today's work count.",
+    "active": true
+  },
+  {
+    "category": "Taglish Witty & Fun",
+    "topic": "Midweek Check",
+    "caption": "Midweek check: ano na ang completed, ano ang pending, at ano ang kailangan ng follow-up? Reset and continue. Let's make today's work count.",
+    "active": true
+  },
+  {
+    "category": "Filipino Workplace Motivation",
+    "topic": "Thursday Momentum",
+    "caption": "Thursday momentum! Finish what you can today para hindi lahat maging Friday surprise. 😄 Let's make today's work count.",
+    "active": true
+  },
+  {
+    "category": "Attendance & HR Taglish",
+    "topic": "Friday Energy",
+    "caption": "Friday energy detected! Weekend later, quality work muna. Close important loops before signing off. Let's make today's work count.",
+    "active": true
+  },
+  {
+    "category": "Communication Taglish",
+    "topic": "Office Humor",
+    "caption": "Office humor of the day: the file you need is always in the folder you already checked twice. 😂 Let's make today's work count.",
+    "active": true
+  },
+  {
+    "category": "Teamwork Taglish",
+    "topic": "Email Wisdom",
+    "caption": "Email wisdom: 'Please see attached' works best kapag may actual attachment. 😅📎 Double-check before Send! Let's make today's work count.",
+    "active": true
+  },
+  {
+    "category": "Productivity Taglish",
+    "topic": "Meeting Moment",
+    "caption": "Meeting moment: bring the agenda, bring your notes, and please bring the decision back with you. 😂 Let's make today's work count.",
+    "active": true
+  },
+  {
+    "category": "Workplace Positivity Taglish",
+    "topic": "Team Spirit",
+    "caption": "Team spirit means hindi 'bahala ka diyan.' Share useful information, help when you can, and win together. Let's make today's work count.",
+    "active": true
+  },
+  {
+    "category": "Taglish Witty & Fun",
+    "topic": "HR Friendly Reminder",
+    "caption": "HR-friendly reminder: complete details + correct channel + timely submission = smoother processing for everyone. Let's make today's work count.",
+    "active": true
+  },
+  {
+    "category": "Filipino Workplace Motivation",
+    "topic": "Morning Momentum",
+    "caption": "Start with one important task. Kapag nasimulan na, mas madaling tuloy-tuloy ang momentum. Kaya natin 'to! 💪 Consistency beats last-minute panic.",
+    "active": true
+  },
+  {
+    "category": "Attendance & HR Taglish",
+    "topic": "Deadline Reminder",
+    "caption": "Deadline approaching? Huwag makipag-hide and seek sa task. 😄 Check priorities, make a plan, then finish strong. Consistency beats last-minute panic.",
+    "active": true
+  },
+  {
+    "category": "Communication Taglish",
+    "topic": "Focus Muna",
+    "caption": "Focus muna bago scroll. Give your important work a little uninterrupted time—future you will say thank you. 😄 Consistency beats last-minute panic.",
+    "active": true
+  },
+  {
+    "category": "Teamwork Taglish",
+    "topic": "Small Win Today",
+    "caption": "May natapos ka today? That's progress. Small wins still count, so acknowledge it and move to the next goal. Consistency beats last-minute panic.",
+    "active": true
+  },
+  {
+    "category": "Productivity Taglish",
+    "topic": "Team Check",
+    "caption": "Quick team check: clear ba ang responsibilities at updates? Good coordination today prevents confusion tomorrow. Consistency beats last-minute panic.",
+    "active": true
+  },
+  {
+    "category": "Workplace Positivity Taglish",
+    "topic": "Good Vibes at Work",
+    "caption": "Good vibes are better when paired with good work. Be positive, be helpful, and keep your commitments. Consistency beats last-minute panic.",
+    "active": true
+  },
+  {
+    "category": "Taglish Witty & Fun",
+    "topic": "Coffee Break Wisdom",
+    "caption": "Kape break is temporary; deadlines are persistent. ☕😂 Recharge, then balik tayo with fresh focus. Consistency beats last-minute panic.",
+    "active": true
+  },
+  {
+    "category": "Filipino Workplace Motivation",
+    "topic": "Work Smart Today",
+    "caption": "Hindi kailangang mabilis lahat. Work smart, check the details, and make sure the result is useful and accurate. Consistency beats last-minute panic.",
+    "active": true
+  },
+  {
+    "category": "Attendance & HR Taglish",
+    "topic": "Clear Communication",
+    "caption": "Clear message = less follow-up. Sabihin agad ang concern, needed action, and relevant deadline. Consistency beats last-minute panic.",
+    "active": true
+  },
+  {
+    "category": "Communication Taglish",
+    "topic": "Ready, Set, Work",
+    "caption": "Ready na? Organize your priorities, clear unnecessary distractions, and give the first task your full attention. Consistency beats last-minute panic.",
+    "active": true
+  },
+  {
+    "category": "Teamwork Taglish",
+    "topic": "Office Reality Check",
+    "caption": "Office reality: sometimes the 'quick task' has three attachments, two approvals, and a sequel. 😂 Plan accordingly! Consistency beats last-minute panic.",
+    "active": true
+  },
+  {
+    "category": "Productivity Taglish",
+    "topic": "Keep It Moving",
+    "caption": "Kapag may obstacle, communicate early. Mas madaling tumulong ang team kapag alam nila kung saan naka-stuck. Consistency beats last-minute panic.",
+    "active": true
+  },
+  {
+    "category": "Workplace Positivity Taglish",
+    "topic": "Professional Tip",
+    "caption": "Professional tip of the day: check names, dates, numbers, recipients, and attachments before clicking Send. Consistency beats last-minute panic.",
+    "active": true
+  },
+  {
+    "category": "Taglish Witty & Fun",
+    "topic": "Daily Reminder",
+    "caption": "Friendly reminder: accurate records and timely submissions make everyone's processing smoother. Consistency beats last-minute panic.",
+    "active": true
+  },
+  {
+    "category": "Filipino Workplace Motivation",
+    "topic": "One Step Better",
+    "caption": "Improve one small thing today—one clearer email, one better checklist, or one more accurate report. Consistency beats last-minute panic.",
+    "active": true
+  },
+  {
+    "category": "Attendance & HR Taglish",
+    "topic": "Workday Energy",
+    "caption": "Energy check! Hindi kailangan 100% hype all day. Consistent, focused effort is already a win. Consistency beats last-minute panic.",
+    "active": true
+  },
+  {
+    "category": "Communication Taglish",
+    "topic": "Task Mode On",
+    "caption": "Task mode ON. One priority, one clear next step, less unnecessary switching. Let's get it done. Consistency beats last-minute panic.",
+    "active": true
+  },
+  {
+    "category": "Teamwork Taglish",
+    "topic": "Accuracy Matters",
+    "caption": "Accuracy matters. Ang mabilis na mali usually mas matagal ayusin kaysa sa maingat na tama. Consistency beats last-minute panic.",
+    "active": true
+  },
+  {
+    "category": "Productivity Taglish",
+    "topic": "Respect at Work",
+    "caption": "Respect makes teamwork easier. Listen, communicate professionally, and value other people's time. Consistency beats last-minute panic.",
+    "active": true
+  },
+  {
+    "category": "Workplace Positivity Taglish",
+    "topic": "Finish Strong",
+    "caption": "Malapit na matapos ang araw—don't rush the final step. Review your work and finish with quality. Consistency beats last-minute panic.",
+    "active": true
+  },
+  {
+    "category": "Taglish Witty & Fun",
+    "topic": "Monday Mood",
+    "caption": "Monday mood: loading... ☕😄 Start gently, set priorities, then build momentum one task at a time. Consistency beats last-minute panic.",
+    "active": true
+  },
+  {
+    "category": "Filipino Workplace Motivation",
+    "topic": "Tuesday Push",
+    "caption": "Tuesday na! Monday survived. Keep the momentum and make one meaningful thing happen today. Consistency beats last-minute panic.",
+    "active": true
+  },
+  {
+    "category": "Attendance & HR Taglish",
+    "topic": "Midweek Check",
+    "caption": "Midweek check: ano na ang completed, ano ang pending, at ano ang kailangan ng follow-up? Reset and continue. Consistency beats last-minute panic.",
+    "active": true
+  },
+  {
+    "category": "Communication Taglish",
+    "topic": "Thursday Momentum",
+    "caption": "Thursday momentum! Finish what you can today para hindi lahat maging Friday surprise. 😄 Consistency beats last-minute panic.",
+    "active": true
+  },
+  {
+    "category": "Teamwork Taglish",
+    "topic": "Friday Energy",
+    "caption": "Friday energy detected! Weekend later, quality work muna. Close important loops before signing off. Consistency beats last-minute panic.",
+    "active": true
+  },
+  {
+    "category": "Productivity Taglish",
+    "topic": "Office Humor",
+    "caption": "Office humor of the day: the file you need is always in the folder you already checked twice. 😂 Consistency beats last-minute panic.",
+    "active": true
+  },
+  {
+    "category": "Workplace Positivity Taglish",
+    "topic": "Email Wisdom",
+    "caption": "Email wisdom: 'Please see attached' works best kapag may actual attachment. 😅📎 Double-check before Send! Consistency beats last-minute panic.",
+    "active": true
+  },
+  {
+    "category": "Taglish Witty & Fun",
+    "topic": "Meeting Moment",
+    "caption": "Meeting moment: bring the agenda, bring your notes, and please bring the decision back with you. 😂 Consistency beats last-minute panic.",
+    "active": true
+  },
+  {
+    "category": "Filipino Workplace Motivation",
+    "topic": "Team Spirit",
+    "caption": "Team spirit means hindi 'bahala ka diyan.' Share useful information, help when you can, and win together. Consistency beats last-minute panic.",
+    "active": true
+  },
+  {
+    "category": "Attendance & HR Taglish",
+    "topic": "HR Friendly Reminder",
+    "caption": "HR-friendly reminder: complete details + correct channel + timely submission = smoother processing for everyone. Consistency beats last-minute panic.",
+    "active": true
+  },
+  {
+    "category": "Communication Taglish",
+    "topic": "Morning Momentum",
+    "caption": "Start with one important task. Kapag nasimulan na, mas madaling tuloy-tuloy ang momentum. Kaya natin 'to! 💪 Keep it simple and consistent.",
+    "active": true
+  },
+  {
+    "category": "Teamwork Taglish",
+    "topic": "Deadline Reminder",
+    "caption": "Deadline approaching? Huwag makipag-hide and seek sa task. 😄 Check priorities, make a plan, then finish strong. Keep it simple and consistent.",
+    "active": true
+  },
+  {
+    "category": "Productivity Taglish",
+    "topic": "Focus Muna",
+    "caption": "Focus muna bago scroll. Give your important work a little uninterrupted time—future you will say thank you. 😄 Keep it simple and consistent.",
+    "active": true
+  },
+  {
+    "category": "Workplace Positivity Taglish",
+    "topic": "Small Win Today",
+    "caption": "May natapos ka today? That's progress. Small wins still count, so acknowledge it and move to the next goal. Keep it simple and consistent.",
+    "active": true
+  },
+  {
+    "category": "Taglish Witty & Fun",
+    "topic": "Team Check",
+    "caption": "Quick team check: clear ba ang responsibilities at updates? Good coordination today prevents confusion tomorrow. Keep it simple and consistent.",
+    "active": true
+  },
+  {
+    "category": "Filipino Workplace Motivation",
+    "topic": "Good Vibes at Work",
+    "caption": "Good vibes are better when paired with good work. Be positive, be helpful, and keep your commitments. Keep it simple and consistent.",
+    "active": true
+  },
+  {
+    "category": "Attendance & HR Taglish",
+    "topic": "Coffee Break Wisdom",
+    "caption": "Kape break is temporary; deadlines are persistent. ☕😂 Recharge, then balik tayo with fresh focus. Keep it simple and consistent.",
+    "active": true
+  },
+  {
+    "category": "Communication Taglish",
+    "topic": "Work Smart Today",
+    "caption": "Hindi kailangang mabilis lahat. Work smart, check the details, and make sure the result is useful and accurate. Keep it simple and consistent.",
+    "active": true
+  },
+  {
+    "category": "Teamwork Taglish",
+    "topic": "Clear Communication",
+    "caption": "Clear message = less follow-up. Sabihin agad ang concern, needed action, and relevant deadline. Keep it simple and consistent.",
+    "active": true
+  },
+  {
+    "category": "Productivity Taglish",
+    "topic": "Ready, Set, Work",
+    "caption": "Ready na? Organize your priorities, clear unnecessary distractions, and give the first task your full attention. Keep it simple and consistent.",
+    "active": true
+  },
+  {
+    "category": "Workplace Positivity Taglish",
+    "topic": "Office Reality Check",
+    "caption": "Office reality: sometimes the 'quick task' has three attachments, two approvals, and a sequel. 😂 Plan accordingly! Keep it simple and consistent.",
+    "active": true
+  },
+  {
+    "category": "Taglish Witty & Fun",
+    "topic": "Keep It Moving",
+    "caption": "Kapag may obstacle, communicate early. Mas madaling tumulong ang team kapag alam nila kung saan naka-stuck. Keep it simple and consistent.",
+    "active": true
+  },
+  {
+    "category": "Filipino Workplace Motivation",
+    "topic": "Professional Tip",
+    "caption": "Professional tip of the day: check names, dates, numbers, recipients, and attachments before clicking Send. Keep it simple and consistent.",
+    "active": true
+  },
+  {
+    "category": "Attendance & HR Taglish",
+    "topic": "Daily Reminder",
+    "caption": "Friendly reminder: accurate records and timely submissions make everyone's processing smoother. Keep it simple and consistent.",
+    "active": true
+  },
+  {
+    "category": "Communication Taglish",
+    "topic": "One Step Better",
+    "caption": "Improve one small thing today—one clearer email, one better checklist, or one more accurate report. Keep it simple and consistent.",
+    "active": true
+  },
+  {
+    "category": "Teamwork Taglish",
+    "topic": "Workday Energy",
+    "caption": "Energy check! Hindi kailangan 100% hype all day. Consistent, focused effort is already a win. Keep it simple and consistent.",
+    "active": true
+  },
+  {
+    "category": "Productivity Taglish",
+    "topic": "Task Mode On",
+    "caption": "Task mode ON. One priority, one clear next step, less unnecessary switching. Let's get it done. Keep it simple and consistent.",
+    "active": true
+  },
+  {
+    "category": "Workplace Positivity Taglish",
+    "topic": "Accuracy Matters",
+    "caption": "Accuracy matters. Ang mabilis na mali usually mas matagal ayusin kaysa sa maingat na tama. Keep it simple and consistent.",
+    "active": true
+  },
+  {
+    "category": "Taglish Witty & Fun",
+    "topic": "Respect at Work",
+    "caption": "Respect makes teamwork easier. Listen, communicate professionally, and value other people's time. Keep it simple and consistent.",
+    "active": true
+  },
+  {
+    "category": "Filipino Workplace Motivation",
+    "topic": "Finish Strong",
+    "caption": "Malapit na matapos ang araw—don't rush the final step. Review your work and finish with quality. Keep it simple and consistent.",
+    "active": true
+  },
+  {
+    "category": "Attendance & HR Taglish",
+    "topic": "Monday Mood",
+    "caption": "Monday mood: loading... ☕😄 Start gently, set priorities, then build momentum one task at a time. Keep it simple and consistent.",
+    "active": true
+  },
+  {
+    "category": "Communication Taglish",
+    "topic": "Tuesday Push",
+    "caption": "Tuesday na! Monday survived. Keep the momentum and make one meaningful thing happen today. Keep it simple and consistent.",
+    "active": true
+  },
+  {
+    "category": "Teamwork Taglish",
+    "topic": "Midweek Check",
+    "caption": "Midweek check: ano na ang completed, ano ang pending, at ano ang kailangan ng follow-up? Reset and continue. Keep it simple and consistent.",
+    "active": true
+  },
+  {
+    "category": "Productivity Taglish",
+    "topic": "Thursday Momentum",
+    "caption": "Thursday momentum! Finish what you can today para hindi lahat maging Friday surprise. 😄 Keep it simple and consistent.",
+    "active": true
+  },
+  {
+    "category": "Workplace Positivity Taglish",
+    "topic": "Friday Energy",
+    "caption": "Friday energy detected! Weekend later, quality work muna. Close important loops before signing off. Keep it simple and consistent.",
+    "active": true
+  },
+  {
+    "category": "Taglish Witty & Fun",
+    "topic": "Office Humor",
+    "caption": "Office humor of the day: the file you need is always in the folder you already checked twice. 😂 Keep it simple and consistent.",
+    "active": true
+  },
+  {
+    "category": "Filipino Workplace Motivation",
+    "topic": "Email Wisdom",
+    "caption": "Email wisdom: 'Please see attached' works best kapag may actual attachment. 😅📎 Double-check before Send! Keep it simple and consistent.",
+    "active": true
+  },
+  {
+    "category": "Attendance & HR Taglish",
+    "topic": "Meeting Moment",
+    "caption": "Meeting moment: bring the agenda, bring your notes, and please bring the decision back with you. 😂 Keep it simple and consistent.",
+    "active": true
+  },
+  {
+    "category": "Communication Taglish",
+    "topic": "Team Spirit",
+    "caption": "Team spirit means hindi 'bahala ka diyan.' Share useful information, help when you can, and win together. Keep it simple and consistent.",
+    "active": true
+  },
+  {
+    "category": "Teamwork Taglish",
+    "topic": "HR Friendly Reminder",
+    "caption": "HR-friendly reminder: complete details + correct channel + timely submission = smoother processing for everyone. Keep it simple and consistent.",
+    "active": true
+  },
+  {
+    "category": "Productivity Taglish",
+    "topic": "Morning Momentum",
+    "caption": "Start with one important task. Kapag nasimulan na, mas madaling tuloy-tuloy ang momentum. Kaya natin 'to! 💪 Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Workplace Positivity Taglish",
+    "topic": "Deadline Reminder",
+    "caption": "Deadline approaching? Huwag makipag-hide and seek sa task. 😄 Check priorities, make a plan, then finish strong. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Taglish Witty & Fun",
+    "topic": "Focus Muna",
+    "caption": "Focus muna bago scroll. Give your important work a little uninterrupted time—future you will say thank you. 😄 Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Filipino Workplace Motivation",
+    "topic": "Small Win Today",
+    "caption": "May natapos ka today? That's progress. Small wins still count, so acknowledge it and move to the next goal. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Attendance & HR Taglish",
+    "topic": "Team Check",
+    "caption": "Quick team check: clear ba ang responsibilities at updates? Good coordination today prevents confusion tomorrow. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Communication Taglish",
+    "topic": "Good Vibes at Work",
+    "caption": "Good vibes are better when paired with good work. Be positive, be helpful, and keep your commitments. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Teamwork Taglish",
+    "topic": "Coffee Break Wisdom",
+    "caption": "Kape break is temporary; deadlines are persistent. ☕😂 Recharge, then balik tayo with fresh focus. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Productivity Taglish",
+    "topic": "Work Smart Today",
+    "caption": "Hindi kailangang mabilis lahat. Work smart, check the details, and make sure the result is useful and accurate. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Workplace Positivity Taglish",
+    "topic": "Clear Communication",
+    "caption": "Clear message = less follow-up. Sabihin agad ang concern, needed action, and relevant deadline. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Taglish Witty & Fun",
+    "topic": "Ready, Set, Work",
+    "caption": "Ready na? Organize your priorities, clear unnecessary distractions, and give the first task your full attention. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Filipino Workplace Motivation",
+    "topic": "Office Reality Check",
+    "caption": "Office reality: sometimes the 'quick task' has three attachments, two approvals, and a sequel. 😂 Plan accordingly! Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Attendance & HR Taglish",
+    "topic": "Keep It Moving",
+    "caption": "Kapag may obstacle, communicate early. Mas madaling tumulong ang team kapag alam nila kung saan naka-stuck. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Communication Taglish",
+    "topic": "Professional Tip",
+    "caption": "Professional tip of the day: check names, dates, numbers, recipients, and attachments before clicking Send. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Teamwork Taglish",
+    "topic": "Daily Reminder",
+    "caption": "Friendly reminder: accurate records and timely submissions make everyone's processing smoother. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Productivity Taglish",
+    "topic": "One Step Better",
+    "caption": "Improve one small thing today—one clearer email, one better checklist, or one more accurate report. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Workplace Positivity Taglish",
+    "topic": "Workday Energy",
+    "caption": "Energy check! Hindi kailangan 100% hype all day. Consistent, focused effort is already a win. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Taglish Witty & Fun",
+    "topic": "Task Mode On",
+    "caption": "Task mode ON. One priority, one clear next step, less unnecessary switching. Let's get it done. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Filipino Workplace Motivation",
+    "topic": "Accuracy Matters",
+    "caption": "Accuracy matters. Ang mabilis na mali usually mas matagal ayusin kaysa sa maingat na tama. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Attendance & HR Taglish",
+    "topic": "Respect at Work",
+    "caption": "Respect makes teamwork easier. Listen, communicate professionally, and value other people's time. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Communication Taglish",
+    "topic": "Finish Strong",
+    "caption": "Malapit na matapos ang araw—don't rush the final step. Review your work and finish with quality. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Teamwork Taglish",
+    "topic": "Monday Mood",
+    "caption": "Monday mood: loading... ☕😄 Start gently, set priorities, then build momentum one task at a time. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Productivity Taglish",
+    "topic": "Tuesday Push",
+    "caption": "Tuesday na! Monday survived. Keep the momentum and make one meaningful thing happen today. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Workplace Positivity Taglish",
+    "topic": "Midweek Check",
+    "caption": "Midweek check: ano na ang completed, ano ang pending, at ano ang kailangan ng follow-up? Reset and continue. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Taglish Witty & Fun",
+    "topic": "Thursday Momentum",
+    "caption": "Thursday momentum! Finish what you can today para hindi lahat maging Friday surprise. 😄 Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Filipino Workplace Motivation",
+    "topic": "Friday Energy",
+    "caption": "Friday energy detected! Weekend later, quality work muna. Close important loops before signing off. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Attendance & HR Taglish",
+    "topic": "Office Humor",
+    "caption": "Office humor of the day: the file you need is always in the folder you already checked twice. 😂 Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Communication Taglish",
+    "topic": "Email Wisdom",
+    "caption": "Email wisdom: 'Please see attached' works best kapag may actual attachment. 😅📎 Double-check before Send! Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Teamwork Taglish",
+    "topic": "Meeting Moment",
+    "caption": "Meeting moment: bring the agenda, bring your notes, and please bring the decision back with you. 😂 Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Productivity Taglish",
+    "topic": "Team Spirit",
+    "caption": "Team spirit means hindi 'bahala ka diyan.' Share useful information, help when you can, and win together. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Workplace Positivity Taglish",
+    "topic": "HR Friendly Reminder",
+    "caption": "HR-friendly reminder: complete details + correct channel + timely submission = smoother processing for everyone. Small habits make a big difference.",
+    "active": true
+  },
+  {
+    "category": "Taglish Witty & Fun",
+    "topic": "Morning Momentum",
+    "caption": "Start with one important task. Kapag nasimulan na, mas madaling tuloy-tuloy ang momentum. Kaya natin 'to! 💪 Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Filipino Workplace Motivation",
+    "topic": "Deadline Reminder",
+    "caption": "Deadline approaching? Huwag makipag-hide and seek sa task. 😄 Check priorities, make a plan, then finish strong. Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Attendance & HR Taglish",
+    "topic": "Focus Muna",
+    "caption": "Focus muna bago scroll. Give your important work a little uninterrupted time—future you will say thank you. 😄 Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Communication Taglish",
+    "topic": "Small Win Today",
+    "caption": "May natapos ka today? That's progress. Small wins still count, so acknowledge it and move to the next goal. Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Teamwork Taglish",
+    "topic": "Team Check",
+    "caption": "Quick team check: clear ba ang responsibilities at updates? Good coordination today prevents confusion tomorrow. Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Productivity Taglish",
+    "topic": "Good Vibes at Work",
+    "caption": "Good vibes are better when paired with good work. Be positive, be helpful, and keep your commitments. Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Workplace Positivity Taglish",
+    "topic": "Coffee Break Wisdom",
+    "caption": "Kape break is temporary; deadlines are persistent. ☕😂 Recharge, then balik tayo with fresh focus. Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Taglish Witty & Fun",
+    "topic": "Work Smart Today",
+    "caption": "Hindi kailangang mabilis lahat. Work smart, check the details, and make sure the result is useful and accurate. Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Filipino Workplace Motivation",
+    "topic": "Clear Communication",
+    "caption": "Clear message = less follow-up. Sabihin agad ang concern, needed action, and relevant deadline. Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Attendance & HR Taglish",
+    "topic": "Ready, Set, Work",
+    "caption": "Ready na? Organize your priorities, clear unnecessary distractions, and give the first task your full attention. Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Communication Taglish",
+    "topic": "Office Reality Check",
+    "caption": "Office reality: sometimes the 'quick task' has three attachments, two approvals, and a sequel. 😂 Plan accordingly! Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Teamwork Taglish",
+    "topic": "Keep It Moving",
+    "caption": "Kapag may obstacle, communicate early. Mas madaling tumulong ang team kapag alam nila kung saan naka-stuck. Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Productivity Taglish",
+    "topic": "Professional Tip",
+    "caption": "Professional tip of the day: check names, dates, numbers, recipients, and attachments before clicking Send. Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Workplace Positivity Taglish",
+    "topic": "Daily Reminder",
+    "caption": "Friendly reminder: accurate records and timely submissions make everyone's processing smoother. Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Taglish Witty & Fun",
+    "topic": "One Step Better",
+    "caption": "Improve one small thing today—one clearer email, one better checklist, or one more accurate report. Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Filipino Workplace Motivation",
+    "topic": "Workday Energy",
+    "caption": "Energy check! Hindi kailangan 100% hype all day. Consistent, focused effort is already a win. Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Attendance & HR Taglish",
+    "topic": "Task Mode On",
+    "caption": "Task mode ON. One priority, one clear next step, less unnecessary switching. Let's get it done. Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Communication Taglish",
+    "topic": "Accuracy Matters",
+    "caption": "Accuracy matters. Ang mabilis na mali usually mas matagal ayusin kaysa sa maingat na tama. Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Teamwork Taglish",
+    "topic": "Respect at Work",
+    "caption": "Respect makes teamwork easier. Listen, communicate professionally, and value other people's time. Good work is easier when the process is clear.",
+    "active": true
+  },
+  {
+    "category": "Productivity Taglish",
+    "topic": "Finish Strong",
+    "caption": "Malapit na matapos ang araw—don't rush the final step. Review your work and finish with quality. Good work is easier when the process is clear.",
+    "active": true
+  }
+]
